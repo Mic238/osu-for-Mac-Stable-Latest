@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WS-Installed</key>
+	<array>
+		<string></string>
+		<string>baekmuk</string>
+		<string>dotnet40</string>
+		<string>takao</string>
+		<string>unifont</string>
+		<string>Using winetricks 20170823-next - sha256sum: 5a0e267f442358618e5254c0f77e32d4b86840dce538629c480d7527e06c6097 with wine-2.12 and WINEARCH=win32</string>
+		<string>wenquanyi</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1314 @@
+WINE REGISTRY Version 2
+;; All keys relative to \\User\\S-1-5-21-0-0-0-1000
+
+#arch=win32
+
+[AppEvents\\Schemes\\Apps\\Explorer\\Navigating\\.Current] 1504926197
+#time=1d329182f4e05f8
+@=""
+
+[Control Panel\\Accessibility\\Blind Access] 1504926192
+#time=1d329182c70ab2e
+"On"="0"
+
+[Control Panel\\Accessibility\\Keyboard Preference] 1504926192
+#time=1d329182c709134
+"On"="1"
+
+[Control Panel\\Accessibility\\ShowSounds] 1504926192
+#time=1d329182c70b16e
+"On"="0"
+
+[Control Panel\\Colors] 1504926207
+#time=1d329183523dcc8
+"ActiveBorder"="212 212 212"
+"background"="0 0 0"
+"ButtonAlternateFace"="181 181 181"
+"ButtonFace"="212 212 212"
+"ButtonHilight"="255 255 255"
+"ButtonLight"="212 212 212"
+"ButtonShadow"="128 128 128"
+"ButtonText"="0 0 0"
+"GradientInactiveTitle"="192 192 192"
+"GrayText"="128 128 128"
+"HotTrackingColor"="0 0 200"
+"InactiveBorder"="212 212 212"
+"InactiveTitle"="128 128 128"
+"InactiveTitleText"="212 212 212"
+"Menu"="212 212 212"
+"MenuBar"="212 212 212"
+"Scrollbar"="212 212 212"
+"Window"="255 255 255"
+"WindowFrame"="0 0 0"
+
+[Control Panel\\Desktop] 1504926207
+#time=1d329183523dfd4
+"ActiveWndTrackTimeout"=dword:00000000
+"BlockSendInputResets"="0"
+"CaretWidth"=dword:00000001
+"ClickLockTime"=dword:000004b0
+"DoubleClickHeight"="4"
+"DoubleClickWidth"="4"
+"DragFullWindows"="0"
+"DragHeight"="4"
+"DragWidth"="4"
+"FocusBorderHeight"=dword:00000001
+"FocusBorderWidth"=dword:00000001
+"FontSmoothing"="1"
+"FontSmoothingGamma"=dword:00000000
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000001
+"ForegroundFlashCount"=dword:00000003
+"ForegroundLockTimeout"=dword:00000000
+"IconTitleWrap"="1"
+"LowPowerActive"="0"
+"MenuShowDelay"="400"
+"UserPreferencesMask"=hex:30,00,00,80,10,00,00,00
+"Wallpaper"=""
+"WheelScrollChars"="3"
+"WheelScrollLines"="3"
+
+[Control Panel\\Desktop\\WindowMetrics] 1504926192
+#time=1d329182c70b3a8
+"BorderWidth"="-15"
+"CaptionHeight"="-270"
+"CaptionWidth"="-270"
+"IconSpacing"="-1125"
+"IconTitleWrap"="1"
+"IconVerticalSpacing"="-1125"
+"MenuHeight"="-270"
+"MenuWidth"="-270"
+"PaddedBorderWidth"="0"
+"ScrollHeight"="-240"
+"ScrollWidth"="-240"
+"SmCaptionHeight"="-225"
+"SmCaptionWidth"="-225"
+
+[Control Panel\\International] 1504926191
+#time=1d329182bb7e814
+"iCalendarType"="1"
+"iCountry"="61"
+"iCurrDigits"="2"
+"iCurrency"="0"
+"iDate"="1"
+"iDigits"="2"
+"iFirstDayOfWeek"="0"
+"iFirstWeekOfYear"="0"
+"iLDate"="1"
+"iLZero"="1"
+"iMeasure"="0"
+"iNegCurr"="1"
+"iNegNumber"="1"
+"iPaperSize"="9"
+"iTime"="0"
+"iTimePrefix"="0"
+"iTLZero"="0"
+"LC_CTYPE"="00000c09"
+"LC_MEASUREMENT"="00000000"
+"LC_MONETARY"="00000c09"
+"LC_NUMERIC"="00000c09"
+"LC_PAPER"="00000000"
+"LC_TELEPHONE"="00000000"
+"LC_TIME"="00000c09"
+"Locale"="00000c09"
+"Numshape"="1"
+"s1159"="AM"
+"s2359"="PM"
+"sCountry"="Australia"
+"sCurrency"="$"
+"sDate"="/"
+"sDecimal"="."
+"sGrouping"="3;0"
+"sLanguage"="ENA"
+"sList"=","
+"sLongDate"="dddd, d MMMM yyyy"
+"sMonDecimalSep"="."
+"sMonGrouping"="3;0"
+"sMonThousandSep"=","
+"sNativeDigits"="0123456789"
+"sNegativeSign"="-"
+"sPositiveSign"=""
+"sShortDate"="d/MM/yyyy"
+"sThousand"=","
+"sTime"=":"
+"sTimeFormat"="h:mm:ss tt"
+"sYearMonth"="MMMM yyyy"
+
+[Control Panel\\Keyboard] 1504926192
+#time=1d329182c709288
+"KeyboardDelay"="1"
+"KeyboardSpeed"="31"
+
+[Control Panel\\Mouse] 1504926192
+#time=1d329182c70b542
+"ActiveWindowTracking"=dword:00000000
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"MouseHoverHeight"="4"
+"MouseHoverTime"="400"
+"MouseHoverWidth"="4"
+"MouseSensitivity"="10"
+"MouseSpeed"="1"
+"MouseThreshold1"="6"
+"MouseThreshold2"="10"
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+
+[Control Panel\\Sound] 1504926192
+#time=1d329182c706092
+"Beep"="Yes"
+
+[Environment] 1504926194
+#time=1d329182d6f0728
+"TEMP"="C:\\users\\Michael\\Temp"
+"TMP"="C:\\users\\Michael\\Temp"
+
+[Software\\Microsoft\\Internet Explorer\\Main] 1504926197
+#time=1d329182f450caa
+"Search Page"="http://www.google.com"
+"Start Page"="http://www.winehq.org"
+
+[Software\\Microsoft\\Internet Explorer\\Main\\FeatureControl] 1504926193
+#time=1d329182d0f5f30
+
+[Software\\Microsoft\\Internet Explorer\\Settings] 1504926197
+#time=1d329182f450fe8
+"Text Color"="0,0,0"
+
+[Software\\Microsoft\\Protected Storage System Provider] 1504926197
+#time=1d329182f4e0882
+
+[Software\\Microsoft\\SQMClient] 1504926440
+#time=1d32918c00cbb70
+"UserId"="{DA136DE3-144C-43F5-B958-B8F834104725}"
+
+[Software\\Microsoft\\SystemCertificates\\CA\\Certificates] 1504926444
+#time=1d32918c26d6626
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CRLs] 1504926444
+#time=1d32918c26d687e
+
+[Software\\Microsoft\\SystemCertificates\\CA\\CTLs] 1504926444
+#time=1d32918c26d6a90
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\Certificates] 1504926444
+#time=1d32918c2779bf0
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\CRLs] 1504926444
+#time=1d32918c2779eac
+
+[Software\\Microsoft\\SystemCertificates\\Disallowed\\CTLs] 1504926444
+#time=1d32918c277a136
+
+[Software\\Microsoft\\SystemCertificates\\My\\Certificates] 1504926444
+#time=1d32918c26d7a3a
+
+[Software\\Microsoft\\SystemCertificates\\My\\CRLs] 1504926444
+#time=1d32918c26d7c2e
+
+[Software\\Microsoft\\SystemCertificates\\My\\CTLs] 1504926444
+#time=1d32918c26d7e54
+
+[Software\\Microsoft\\SystemCertificates\\Root\\Certificates] 1504926443
+#time=1d32918c2475058
+
+[Software\\Microsoft\\SystemCertificates\\Root\\CRLs] 1504926443
+#time=1d32918c2475300
+
+[Software\\Microsoft\\SystemCertificates\\Root\\CTLs] 1504926443
+#time=1d32918c24754f4
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\Certificates] 1504926444
+#time=1d32918c26d8df4
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CRLs] 1504926444
+#time=1d32918c26d8fe8
+
+[Software\\Microsoft\\SystemCertificates\\Trust\\CTLs] 1504926444
+#time=1d32918c26d91d2
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\Shell Folders] 1504926444
+#time=1d32918c2e05f0a
+"Administrative Tools"="C:\\users\\Michael\\Start Menu\\Programs\\Administrative Tools"
+"AppData"="C:\\users\\Michael\\Application Data"
+"Cache"="C:\\users\\Michael\\Local Settings\\Temporary Internet Files"
+"Cookies"="C:\\users\\Michael\\Cookies"
+"Desktop"="C:\\users\\Michael\\Desktop"
+"Favorites"="C:\\users\\Michael\\Favorites"
+"Fonts"="C:\\windows\\Fonts"
+"History"="C:\\users\\Michael\\Local Settings\\History"
+"Local AppData"="C:\\users\\Michael\\Local Settings\\Application Data"
+"My Music"="C:\\users\\Wineskin\\My Music"
+"My Pictures"="C:\\users\\Michael\\My Pictures"
+"My Videos"="C:\\users\\Wineskin\\My Videos"
+"NetHood"="C:\\users\\Michael\\NetHood"
+"Personal"="C:\\users\\Michael\\My Documents"
+"PrintHood"="C:\\users\\Michael\\PrintHood"
+"Programs"="C:\\users\\Michael\\Start Menu\\Programs"
+"Recent"="C:\\users\\Michael\\Recent"
+"SendTo"="C:\\users\\Michael\\SendTo"
+"Start Menu"="C:\\users\\Michael\\Start Menu"
+"StartUp"="C:\\users\\Michael\\Start Menu\\Programs\\StartUp"
+"Templates"="C:\\users\\Michael\\Templates"
+"{374DE290-123F-4565-9164-39C4925E467B}"="C:\\users\\Michael\\Downloads"
+"{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"="C:\\users\\Michael\\Saved Games"
+"{56784854-C6CB-462B-8169-88E350ACB882}"="C:\\users\\Michael\\Contacts"
+"{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"="C:\\users\\Michael\\Searches"
+"{A520A1A4-1780-4FF6-BD18-167343C5AF16}"="C:\\users\\Michael\\AppData\\LocalLow"
+"{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"="C:\\users\\Michael\\Links"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Explorer\\User Shell Folders] 1504926194
+#time=1d329182d6db13e
+"Administrative Tools"=str(2):"%USERPROFILE%\\Start Menu\\Programs\\Administrative Tools"
+"AppData"=str(2):"%USERPROFILE%\\Application Data"
+"Cache"=str(2):"%USERPROFILE%\\Local Settings\\Temporary Internet Files"
+"Cookies"=str(2):"%USERPROFILE%\\Cookies"
+"Desktop"=str(2):"%USERPROFILE%\\Desktop"
+"Favorites"=str(2):"%USERPROFILE%\\Favorites"
+"Fonts"=str(2):"C:\\windows\\Fonts"
+"History"=str(2):"%USERPROFILE%\\Local Settings\\History"
+"Local AppData"=str(2):"%USERPROFILE%\\Local Settings\\Application Data"
+"My Music"=str(2):"%USERPROFILE%\\My Music"
+"My Pictures"=str(2):"%USERPROFILE%\\My Pictures"
+"My Videos"=str(2):"%USERPROFILE%\\My Videos"
+"NetHood"=str(2):"%USERPROFILE%\\NetHood"
+"Personal"=str(2):"%USERPROFILE%\\My Documents"
+"PrintHood"=str(2):"%USERPROFILE%\\PrintHood"
+"Programs"=str(2):"%USERPROFILE%\\Start Menu\\Programs"
+"Recent"=str(2):"%USERPROFILE%\\Recent"
+"SendTo"=str(2):"%USERPROFILE%\\SendTo"
+"Start Menu"=str(2):"%USERPROFILE%\\Start Menu"
+"StartUp"=str(2):"%USERPROFILE%\\Start Menu\\Programs\\StartUp"
+"Templates"=str(2):"%USERPROFILE%\\Templates"
+"{374DE290-123F-4565-9164-39C4925E467B}"=str(2):"%USERPROFILE%\\Downloads"
+"{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"=str(2):"%USERPROFILE%\\Saved Games"
+"{56784854-C6CB-462B-8169-88E350ACB882}"=str(2):"%USERPROFILE%\\Contacts"
+"{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"=str(2):"%USERPROFILE%\\Searches"
+"{A520A1A4-1780-4FF6-BD18-167343C5AF16}"=str(2):"%USERPROFILE%\\AppData\\LocalLow"
+"{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"=str(2):"%USERPROFILE%\\Links"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings] 1504926196
+#time=1d329182f03adfa
+"User Agent"="Mozilla/4.0 (compatible; MSIE 8.0; Win32)"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap] 1504926196
+#time=1d329182f03a90e
+@=""
+"IntranetName"=dword:00000001
+"ProxyByPass"=dword:00000001
+"UNCAsIntranet"=dword:00000001
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Domains] 1504926196
+#time=1d329182f03a558
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\ProtocolDefaults] 1504926196
+#time=1d329182f03a030
+@=""
+"@ivt"=dword:00000001
+"file"=dword:00000003
+"ftp"=dword:00000003
+"http"=dword:00000003
+"https"=dword:00000003
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\ZoneMap\\Ranges] 1504926196
+#time=1d329182f03a9e0
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones] 1504926196
+#time=1d329182f07b4ea
+@=""
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\0] 1504926196
+#time=1d329182f049d0a
+@=""
+"1001"=dword:00000000
+"1004"=dword:00000000
+"1200"=dword:00000000
+"1201"=dword:00000001
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000000
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000000
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000000
+"1805"=dword:00000000
+"1A00"=dword:00000000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00020000
+"1E05"=dword:00030000
+"CurrentLevel"=dword:00000000
+"Description"="Your computer"
+"DisplayName"="My Computer"
+"Flags"=dword:00000021
+"Icon"="explorer.exe#0100"
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\1] 1504926196
+#time=1d329182f059c64
+@=""
+"1001"=dword:00000001
+"1004"=dword:00000003
+"1200"=dword:00000000
+"1201"=dword:00000003
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000001
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000001
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000001
+"1805"=dword:00000000
+"1A00"=dword:00020000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00020000
+"1E05"=dword:00020000
+"CurrentLevel"=dword:00010500
+"Description"="This zone contains all Web sites that are on your organization's intranet."
+"DisplayName"="Local intranet"
+"Flags"=dword:000000db
+"Icon"="shell32.dll#0018"
+"MinLevel"=dword:00010000
+"RecommendedLevel"=dword:00010500
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\2] 1504926196
+#time=1d329182f06b554
+@=""
+"1001"=dword:00000000
+"1004"=dword:00000001
+"1200"=dword:00000000
+"1201"=dword:00000001
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000000
+"1407"=dword:00000000
+"1601"=dword:00000000
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000000
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000000
+"1805"=dword:00000000
+"1A00"=dword:00000000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000000
+"1A05"=dword:00000000
+"1A06"=dword:00000000
+"1A10"=dword:00000000
+"1C00"=dword:00030000
+"1E05"=dword:00030000
+"CurrentLevel"=dword:00010000
+"Description"="This zone contains Web sites that you trust not to damage your computer or data."
+"DisplayName"="Trusted sites"
+"Flags"=dword:00000047
+"Icon"="inetcpl.cpl#00004480"
+"MinLevel"=dword:00010000
+"RecommendedLevel"=dword:00010000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\3] 1504926196
+#time=1d329182f07b03a
+@=""
+"1001"=dword:00000001
+"1004"=dword:00000003
+"1200"=dword:00000000
+"1201"=dword:00000003
+"1400"=dword:00000000
+"1402"=dword:00000000
+"1405"=dword:00000000
+"1406"=dword:00000003
+"1407"=dword:00000000
+"1601"=dword:00000001
+"1604"=dword:00000000
+"1605"=dword:00000000
+"1606"=dword:00000000
+"1607"=dword:00000000
+"1608"=dword:00000000
+"1609"=dword:00000001
+"1800"=dword:00000001
+"1802"=dword:00000000
+"1803"=dword:00000000
+"1804"=dword:00000001
+"1805"=dword:00000001
+"1A00"=dword:00020000
+"1A02"=dword:00000000
+"1A03"=dword:00000000
+"1A04"=dword:00000003
+"1A05"=dword:00000001
+"1A06"=dword:00000000
+"1A10"=dword:00000001
+"1C00"=dword:00010000
+"1E05"=dword:00020000
+"CurrentLevel"=dword:00011000
+"Description"="This zone contains all Web sites you haven't placed in other zones"
+"DisplayName"="Internet"
+"Flags"=dword:00000001
+"Icon"="inetcpl.cpl#001313"
+"MinLevel"=dword:00011000
+"RecommendedLevel"=dword:00011000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Internet Settings\\Zones\\4] 1504926196
+#time=1d329182f08c79a
+@=""
+"1001"=dword:00000003
+"1004"=dword:00000003
+"1200"=dword:00000003
+"1201"=dword:00000003
+"1400"=dword:00000003
+"1402"=dword:00000003
+"1405"=dword:00000003
+"1406"=dword:00000003
+"1407"=dword:00000003
+"1601"=dword:00000001
+"1604"=dword:00000001
+"1605"=dword:00000000
+"1606"=dword:00000003
+"1607"=dword:00000003
+"1608"=dword:00000003
+"1609"=dword:00000001
+"1800"=dword:00000003
+"1802"=dword:00000001
+"1803"=dword:00000003
+"1804"=dword:00000003
+"1805"=dword:00000001
+"1A00"=dword:00010000
+"1A02"=dword:00000003
+"1A03"=dword:00000003
+"1A04"=dword:00000003
+"1A05"=dword:00000003
+"1A06"=dword:00000003
+"1A10"=dword:00000003
+"1C00"=dword:00000000
+"1E05"=dword:00010000
+"CurrentLevel"=dword:00012000
+"Description"="This zone contains Web sites that could potentially damage your computer or data."
+"DisplayName"="Restricted sites"
+"Flags"=dword:00000003
+"Icon"="inetcpl.cpl#00004481"
+"MinLevel"=dword:00012000
+"RecommendedLevel"=dword:00012000
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Run] 1504926197
+#time=1d329182f4b8c10
+
+[Software\\Microsoft\\Windows\\CurrentVersion\\Wintrust\\Trust Providers\\Software Publishing] 1504926443
+#time=1d32918c24575d0
+"State"=dword:00023c00
+
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Devices] 1504926194
+#time=1d329182d7b4b1e
+"Brother_DCP_J562DW"="wineps.drv,CUPS:Brother_DCP_J562DW"
+
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\PrinterPorts] 1504926194
+#time=1d329182d7b637e
+"Brother_DCP_J562DW"="wineps.drv,CUPS:Brother_DCP_J562DW,15,45"
+
+[Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows] 1504926194
+#time=1d329182d7c6774
+"device"="Brother_DCP_J562DW,wineps.drv,CUPS:Brother_DCP_J562DW"
+
+[Software\\Wine\\Debug] 1504926197
+#time=1d329182f4c4858
+"RelayExclude"="ntdll.RtlEnterCriticalSection;ntdll.RtlTryEnterCriticalSection;ntdll.RtlLeaveCriticalSection;kernel32.48;kernel32.49;kernel32.94;kernel32.95;kernel32.96;kernel32.97;kernel32.98;kernel32.TlsGetValue;kernel32.TlsSetValue;kernel32.FlsGetValue;kernel32.FlsSetValue;kernel32.SetLastError"
+"RelayFromExclude"="winex11.drv;winemac.drv;user32;gdi32;advapi32;kernel32"
+
+[Software\\Wine\\Direct3D] 1504926207
+#time=1d329183523e196
+
+[Software\\Wine\\DllOverrides] 1504926461
+#time=1d32918ccfc4792
+"*mscoree"="native"
+
+[Software\\Wine\\Drivers] 1504926207
+#time=1d329183523e5a6
+"Audio"="coreaudio"
+"Graphics"="mac"
+
+[Software\\Wine\\FileOpenAssociations\\.application] 1504926478
+#time=1d32918d6aa820e
+"AppName"="rundll32"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-application.desktop"
+"MimeType"="application/x-ms-application"
+"OpenWithIcon"="1CD8_rundll32.0"
+"ProgID"="Application.Manifest"
+
+[Software\\Wine\\FileOpenAssociations\\.appref-ms] 1504926478
+#time=1d32918d6ac753c
+"AppName"="rundll32"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-appref-ms.desktop"
+"MimeType"="application/x-wine-extension-appref-ms"
+"OpenWithIcon"="1CD8_rundll32.0"
+"ProgID"="Application.Reference"
+
+[Software\\Wine\\FileOpenAssociations\\.chm] 1504926207
+#time=1d32918352ba962
+"AppName"="hh"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-chm.desktop"
+"MimeType"="application/x-wine-extension-chm"
+"OpenWithIcon"="A35F_hh.0"
+"ProgID"="chm.file"
+
+[Software\\Wine\\FileOpenAssociations\\.compositefont] 1504926478
+#time=1d32918d6ba0684
+"AppName"="A Wine application"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-compositefont.desktop"
+"MimeType"="application/x-wine-extension-compositefont"
+"ProgID"="Windows.CompositeFont"
+
+[Software\\Wine\\FileOpenAssociations\\.gif] 1504926207
+#time=1d3291835336c6a
+"AppName"="Wine Internet Explorer"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-gif.desktop"
+"MimeType"="image/gif"
+"OpenWithIcon"="FB4C_iexplore.0"
+"ProgID"="giffile"
+
+[Software\\Wine\\FileOpenAssociations\\.hlp] 1504926207
+#time=1d329183537422c
+"AppName"="winhlp32"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-hlp.desktop"
+"MimeType"="application/x-wine-extension-hlp"
+"OpenWithIcon"="4137_winhlp32.0"
+"ProgID"="hlpfile"
+
+[Software\\Wine\\FileOpenAssociations\\.htm] 1504926207
+#time=1d32918353b9e94
+"AppName"="winebrowser"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-htm.desktop"
+"MimeType"="text/html"
+"OpenWithIcon"="7765_winebrowser.0"
+"ProgID"="htmlfile"
+
+[Software\\Wine\\FileOpenAssociations\\.ini] 1504926207
+#time=1d329183542e852
+"AppName"="notepad"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-ini.desktop"
+"MimeType"="application/x-wine-extension-ini"
+"OpenWithIcon"="1E64_notepad.0"
+"ProgID"="inifile"
+
+[Software\\Wine\\FileOpenAssociations\\.jfif] 1504926207
+#time=1d3291835477b92
+"AppName"="Wine Internet Explorer"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-jfif.desktop"
+"MimeType"="image/jpeg"
+"OpenWithIcon"="FB4C_iexplore.0"
+"ProgID"="pjpegfile"
+
+[Software\\Wine\\FileOpenAssociations\\.jpe] 1504926207
+#time=1d32918354ac5fe
+"AppName"="Wine Internet Explorer"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-jpe.desktop"
+"MimeType"="image/jpeg"
+"OpenWithIcon"="FB4C_iexplore.0"
+"ProgID"="jpegfile"
+
+[Software\\Wine\\FileOpenAssociations\\.msp] 1504926207
+#time=1d32918355aafd2
+"AppName"="Wine Installer"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-msp.desktop"
+"MimeType"="application/x-wine-extension-msp"
+"OpenWithIcon"="2402_msiexec.0"
+"ProgID"="Msi.Patch"
+
+[Software\\Wine\\FileOpenAssociations\\.pdf] 1504926207
+#time=1d32918355c9310
+"AppName"="winebrowser"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-pdf.desktop"
+"MimeType"="application/x-wine-extension-pdf"
+"OpenWithIcon"="7765_winebrowser.0"
+"ProgID"="pdffile"
+
+[Software\\Wine\\FileOpenAssociations\\.png] 1504926207
+#time=1d32918355f857a
+"AppName"="Wine Internet Explorer"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-png.desktop"
+"MimeType"="image/png"
+"OpenWithIcon"="FB4C_iexplore.0"
+"ProgID"="pngfile"
+
+[Software\\Wine\\FileOpenAssociations\\.rtf] 1504926207
+#time=1d329183563646a
+"AppName"="wordpad"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-rtf.desktop"
+"MimeType"="application/x-wine-extension-rtf"
+"OpenWithIcon"="97C1_wordpad.0"
+"ProgID"="rtffile"
+
+[Software\\Wine\\FileOpenAssociations\\.txt] 1504926207
+#time=1d32918356a59d2
+"AppName"="notepad"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-txt.desktop"
+"MimeType"="text/plain"
+"OpenWithIcon"="1E64_notepad.0"
+"ProgID"="txtfile"
+
+[Software\\Wine\\FileOpenAssociations\\.url] 1504926207
+#time=1d32918356d4eb2
+"AppName"="rundll32"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-url.desktop"
+"MimeType"="application/x-wine-extension-url"
+"OpenWithIcon"="1CD8_rundll32.0"
+"ProgID"="InternetShortcut"
+
+[Software\\Wine\\FileOpenAssociations\\.vbs] 1504926207
+#time=1d32918356dde22
+"AppName"="A Wine application"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-vbs.desktop"
+"MimeType"="application/x-wine-extension-vbs"
+"ProgID"="VBSFile"
+
+[Software\\Wine\\FileOpenAssociations\\.wri] 1504926207
+#time=1d329183571baba
+"AppName"="wordpad"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-wri.desktop"
+"MimeType"="application/x-wine-extension-wri"
+"OpenWithIcon"="97C1_wordpad.0"
+"ProgID"="wrifile"
+
+[Software\\Wine\\FileOpenAssociations\\.xaml] 1504926478
+#time=1d32918d711b0a0
+"AppName"="Windows Presentation Foundation Host"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-xaml.desktop"
+"MimeType"="application/xaml+xml"
+"OpenWithIcon"="E86F_PresentationHost.0"
+"ProgID"="Windows.XamlDocument"
+
+[Software\\Wine\\FileOpenAssociations\\.xbap] 1504926478
+#time=1d32918d716f7ea
+"AppName"="Windows Presentation Foundation Host"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-xbap.desktop"
+"MimeType"="application/x-ms-xbap"
+"OpenWithIcon"="E86F_PresentationHost.0"
+"ProgID"="Windows.Xbap"
+
+[Software\\Wine\\FileOpenAssociations\\.xml] 1504926207
+#time=1d329183574b080
+"AppName"="winebrowser"
+"DesktopFile"="/Users/Michael/.local/share/applications/wine-extension-xml.desktop"
+"MimeType"="text/xml"
+"OpenWithIcon"="7765_winebrowser.0"
+"ProgID"="xmlfile"
+
+[Software\\Wine\\Fonts] 1504926477
+#time=1d32918d645f974
+"Codepages"="1252,850"
+"LogPixels"=dword:00000060
+
+[Software\\Wine\\Fonts\\External Fonts] 1504926477
+#time=1d32918d64e8e9a
+"@Apple LiSung Light (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\25a943c9840c26dbda0fc57db51b663f1f059b4b.asset\\AssetData\\Apple LiSung Light.ttf"
+"@Apple SD Gothic Neo Regular (TrueType)"="Z:\\System\\Library\\Fonts\\AppleSDGothicNeo.ttc"
+"@Arial Unicode MS (TrueType)"="Z:\\Library\\Fonts\\Arial Unicode.ttf"
+"@Baoli SC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\92152aecbdf2ad75d661bdf4f117f7aa5dc44726.asset\\AssetData\\Baoli.ttc"
+"@Baoli TC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\92152aecbdf2ad75d661bdf4f117f7aa5dc44726.asset\\AssetData\\Baoli.ttc"
+"@Brush Script MT Italic (TrueType)"="Z:\\Library\\Fonts\\Brush Script.ttf"
+"@Hannotate SC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\8286fa5728cf4ff70162044510359fb347c3daa3.asset\\AssetData\\Hannotate.ttc"
+"@HanziPen SC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\b0f512e62835401c487712eb6a5a3196b7f6336d.asset\\AssetData\\Hanzipen.ttc"
+"@Heiti SC Light (TrueType)"="Z:\\System\\Library\\Fonts\\STHeiti Light.ttc"
+"@Heiti SC Medium (TrueType)"="Z:\\System\\Library\\Fonts\\STHeiti Medium.ttc"
+"@Heiti TC Light (TrueType)"="Z:\\System\\Library\\Fonts\\STHeiti Light.ttc"
+"@Heiti TC Medium (TrueType)"="Z:\\System\\Library\\Fonts\\STHeiti Medium.ttc"
+"@Hiragino Sans CNS W3 (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\2214fce2d448b12feeaf856f5c080d409a5de8b5.asset\\AssetData\\Hiragino Sans CNS.ttc"
+"@Hiragino Sans GB W3 (TrueType)"="Z:\\System\\Library\\Fonts\\Hiragino Sans GB.ttc"
+"@Hiragino Sans W0 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W0.ttc"
+"@Hiragino Sans W1 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W1.ttc"
+"@Hiragino Sans W2 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W2.ttc"
+"@Hiragino Sans W3 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W3.ttc"
+"@Hiragino Sans W4 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W4.ttc"
+"@Hiragino Sans W5 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W5.ttc"
+"@Hiragino Sans W6 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W6.ttc"
+"@Hiragino Sans W7 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W7.ttc"
+"@Hiragino Sans W8 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W8.ttc"
+"@Hiragino Sans W9 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W9.ttc"
+"@HiraMaruPro-W4 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x4e38\x30b4 ProN W4.ttc"
+"@HiraMinProN-W3 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x660e\x671d ProN.ttc"
+"@Kaiti SC Black (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\5be3d73f826f7c53667868387d1f726793f9357a.asset\\AssetData\\Kaiti.ttc"
+"@Kaiti SC Bold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\5be3d73f826f7c53667868387d1f726793f9357a.asset\\AssetData\\Kaiti.ttc"
+"@Kaiti SC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\5be3d73f826f7c53667868387d1f726793f9357a.asset\\AssetData\\Kaiti.ttc"
+"@Kaiti TC Black (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\5be3d73f826f7c53667868387d1f726793f9357a.asset\\AssetData\\Kaiti.ttc"
+"@Kaiti TC Bold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\5be3d73f826f7c53667868387d1f726793f9357a.asset\\AssetData\\Kaiti.ttc"
+"@Kaiti TC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\5be3d73f826f7c53667868387d1f726793f9357a.asset\\AssetData\\Kaiti.ttc"
+"@Klee Demibold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\fe51de5d395a28b858f2e0c0e8d6147269b99863.asset\\AssetData\\Klee.ttc"
+"@Lantinghei SC Demibold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\aed84407beb2ac420f609d37db1b340fc9e41102.asset\\AssetData\\Lantinghei.ttc"
+"@Lantinghei SC Extralight (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\aed84407beb2ac420f609d37db1b340fc9e41102.asset\\AssetData\\Lantinghei.ttc"
+"@Lantinghei SC Heavy (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\aed84407beb2ac420f609d37db1b340fc9e41102.asset\\AssetData\\Lantinghei.ttc"
+"@Lantinghei TC Demibold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\aed84407beb2ac420f609d37db1b340fc9e41102.asset\\AssetData\\Lantinghei.ttc"
+"@Lantinghei TC Extralight (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\aed84407beb2ac420f609d37db1b340fc9e41102.asset\\AssetData\\Lantinghei.ttc"
+"@Lantinghei TC Heavy (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\aed84407beb2ac420f609d37db1b340fc9e41102.asset\\AssetData\\Lantinghei.ttc"
+"@Libian SC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\7d39d6274826f69d8cf247c4a8ab7a7e2676dac8.asset\\AssetData\\Libian.ttc"
+"@Libian TC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\7d39d6274826f69d8cf247c4a8ab7a7e2676dac8.asset\\AssetData\\Libian.ttc"
+"@LiHei Pro (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\35dcc68ff28855200cfbbf601ab9ffccc63da0ef.asset\\AssetData\\\x5137\x9ed1 Pro.ttf"
+"@LingWai SC Medium (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\ed824bbb6cc8e350380f7d46d51078cd60fdb5e5.asset\\AssetData\\LingWaiSC-Medium.otf"
+"@LingWai TC Medium (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\b78e29b1771eb0b6f1fd764abdf8faee6b703d75.asset\\AssetData\\LingWaiTC-Medium.otf"
+"@LiSong Pro (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\557eba36984ba9b15edfddaf65df25401703f845.asset\\AssetData\\\x5137\x5b8b Pro.ttf"
+"@Nanum Brush Script (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\600deb70a5bbf402aaa93803e8f09b7b689776a5.asset\\AssetData\\NanumScript.ttc"
+"@Nanum Pen Script (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\600deb70a5bbf402aaa93803e8f09b7b689776a5.asset\\AssetData\\NanumScript.ttc"
+"@NanumGothic (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\b598cebd39ccc6bde14b5c6b15289fe7ee234f76.asset\\AssetData\\NanumGothic.ttc"
+"@NanumGothic Bold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\b598cebd39ccc6bde14b5c6b15289fe7ee234f76.asset\\AssetData\\NanumGothic.ttc"
+"@NanumGothic ExtraBold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\b598cebd39ccc6bde14b5c6b15289fe7ee234f76.asset\\AssetData\\NanumGothic.ttc"
+"@NanumMyeongjo (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\0716db48710b2572d6f4feba1756b237985a3bf3.asset\\AssetData\\NanumMyeongjo.ttc"
+"@NanumMyeongjoBold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\0716db48710b2572d6f4feba1756b237985a3bf3.asset\\AssetData\\NanumMyeongjo.ttc"
+"@NanumMyeongjoExtraBold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\0716db48710b2572d6f4feba1756b237985a3bf3.asset\\AssetData\\NanumMyeongjo.ttc"
+"@PingFang HK Regular (TrueType)"="Z:\\System\\Library\\Fonts\\PingFang.ttc"
+"@Songti SC Black (TrueType)"="Z:\\Library\\Fonts\\Songti.ttc"
+"@Songti SC Bold (TrueType)"="Z:\\Library\\Fonts\\Songti.ttc"
+"@Songti SC Light (TrueType)"="Z:\\Library\\Fonts\\Songti.ttc"
+"@Songti SC Regular (TrueType)"="Z:\\Library\\Fonts\\Songti.ttc"
+"@Songti TC Bold (TrueType)"="Z:\\Library\\Fonts\\Songti.ttc"
+"@Songti TC Regular (TrueType)"="Z:\\Library\\Fonts\\Songti.ttc"
+"@STFangsong (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\c53a52ebbeb621b1f78ccca82756baeaf1450634.asset\\AssetData\\\x534e\x6587\x4eff\x5b8b.ttf"
+"@STHeiti (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\363ebbd11ddb2d7ee08dee3239bfc745e450509f.asset\\AssetData\\\x534e\x6587\x9ed1\x4f53.ttf"
+"@STKaiti (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\5be3d73f826f7c53667868387d1f726793f9357a.asset\\AssetData\\Kaiti.ttc"
+"@STSong (TrueType)"="Z:\\Library\\Fonts\\Songti.ttc"
+"@STXihei (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\2d6bade0aafd537c90d41ba45eb7d0cd1461738b.asset\\AssetData\\\x534e\x6587\x7ec6\x9ed1.ttf"
+"@Toppan Bunkyu Gothic Demibold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\05f36dc1b24617129003c24e36919ce09992d714.asset\\AssetData\\ToppanBunkyuGothic.ttc"
+"@Toppan Bunkyu Mincho Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\88788fcd663eebfb3865a9be7c7c18aacf111ddd.asset\\AssetData\\ToppanBunkyuMincho-Regular.otf"
+"@Wawati SC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\c503525321446eb448646915e69d53ee3601cae7.asset\\AssetData\\WawaSC-Regular.otf"
+"@Wawati TC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\323de3ba74525f2f7b3e592ebee94a52875fd980.asset\\AssetData\\WawaTC-Regular.otf"
+"@Xingkai SC Bold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\a5d8aab094d42743cf25543bc3b286d888b11a63.asset\\AssetData\\Xingkai.ttc"
+"@Xingkai SC Light (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\a5d8aab094d42743cf25543bc3b286d888b11a63.asset\\AssetData\\Xingkai.ttc"
+"@Xingkai TC Light (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\a5d8aab094d42743cf25543bc3b286d888b11a63.asset\\AssetData\\Xingkai.ttc"
+"@Yuanti SC Bold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\52ad7cda970d8fb942191c05639bb690f1d749b3.asset\\AssetData\\Yuanti.ttc"
+"@Yuanti SC Light (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\52ad7cda970d8fb942191c05639bb690f1d749b3.asset\\AssetData\\Yuanti.ttc"
+"@Yuanti SC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\52ad7cda970d8fb942191c05639bb690f1d749b3.asset\\AssetData\\Yuanti.ttc"
+"@Yuanti TC Bold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\52ad7cda970d8fb942191c05639bb690f1d749b3.asset\\AssetData\\Yuanti.ttc"
+"@Yuanti TC Light (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\52ad7cda970d8fb942191c05639bb690f1d749b3.asset\\AssetData\\Yuanti.ttc"
+"@Yuanti TC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\52ad7cda970d8fb942191c05639bb690f1d749b3.asset\\AssetData\\Yuanti.ttc"
+"@YuGothic Bold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\4d475442f8402d618791a77edd7e9b0a738090ed.asset\\AssetData\\Yu Gothic Bold.otf"
+"@YuGothic Medium (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\5bae6c7f428d4972a6a35c218a406bbc984de88d.asset\\AssetData\\Yu Gothic Medium.otf"
+"@YuKyokasho Yoko Medium (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\54c54d83907c88c126746aa6edcc448c2f90205a.asset\\AssetData\\Kyokasho.ttc"
+"@YuMincho Medium (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\e6e8d8d3ad5bd3ec492d478d87a7deeb475e7971.asset\\AssetData\\YuMincho.ttc"
+"@Yuppy SC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\99ee04cbc68e8d7a79a32c8d8e533c8272fb093d.asset\\AssetData\\YuppySC-Regular.otf"
+"@Yuppy TC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\edc54b107c416976a4702f799866138e89971b6b.asset\\AssetData\\YuppyTC-Regular.otf"
+"Al Bayan Plain (TrueType)"="Z:\\Library\\Fonts\\AlBayan.ttc"
+"Al Nile (TrueType)"="Z:\\Library\\Fonts\\Al Nile.ttc"
+"Al Tarikh Regular (TrueType)"="Z:\\Library\\Fonts\\Al Tarikh.ttc"
+"American Typewriter (TrueType)"="Z:\\Library\\Fonts\\AmericanTypewriter.ttc"
+"American Typewriter Bold (TrueType)"="Z:\\Library\\Fonts\\AmericanTypewriter.ttc"
+"American Typewriter Condensed (TrueType)"="Z:\\Library\\Fonts\\AmericanTypewriter.ttc"
+"American Typewriter Condensed Bold (TrueType)"="Z:\\Library\\Fonts\\AmericanTypewriter.ttc"
+"American Typewriter Condensed Light (TrueType)"="Z:\\Library\\Fonts\\AmericanTypewriter.ttc"
+"American Typewriter Light (TrueType)"="Z:\\Library\\Fonts\\AmericanTypewriter.ttc"
+"American Typewriter Semibold (TrueType)"="Z:\\Library\\Fonts\\AmericanTypewriter.ttc"
+"Andale Mono (TrueType)"="Z:\\Library\\Fonts\\Andale Mono.ttf"
+"Apple Braille (TrueType)"="Z:\\System\\Library\\Fonts\\Apple Braille.ttf"
+"Apple Braille Outline 6 Dot (TrueType)"="Z:\\System\\Library\\Fonts\\Apple Braille Outline 6 Dot.ttf"
+"Apple Braille Outline 8 Dot (TrueType)"="Z:\\System\\Library\\Fonts\\Apple Braille Outline 8 Dot.ttf"
+"Apple Braille Pinpoint 6 Dot (TrueType)"="Z:\\System\\Library\\Fonts\\Apple Braille Pinpoint 6 Dot.ttf"
+"Apple Braille Pinpoint 8 Dot (TrueType)"="Z:\\System\\Library\\Fonts\\Apple Braille Pinpoint 8 Dot.ttf"
+"Apple Chancery (TrueType)"="Z:\\Library\\Fonts\\Apple Chancery.ttf"
+"Apple Color Emoji (TrueType)"="Z:\\System\\Library\\Fonts\\Apple Color Emoji.ttc"
+"Apple LiSung Light (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\25a943c9840c26dbda0fc57db51b663f1f059b4b.asset\\AssetData\\Apple LiSung Light.ttf"
+"Apple SD Gothic Neo Regular (TrueType)"="Z:\\System\\Library\\Fonts\\AppleSDGothicNeo.ttc"
+"Apple Symbols (TrueType)"="Z:\\System\\Library\\Fonts\\Apple Symbols.ttf"
+"Arial (TrueType)"="Z:\\Library\\Fonts\\Arial.ttf"
+"Arial Black (TrueType)"="Z:\\Library\\Fonts\\Arial Black.ttf"
+"Arial Bold (TrueType)"="Z:\\Library\\Fonts\\Arial Bold.ttf"
+"Arial Bold Italic (TrueType)"="Z:\\Library\\Fonts\\Arial Bold Italic.ttf"
+"Arial Hebrew (TrueType)"="Z:\\System\\Library\\Fonts\\ArialHB.ttc"
+"Arial Hebrew Bold (TrueType)"="Z:\\System\\Library\\Fonts\\ArialHB.ttc"
+"Arial Hebrew Light (TrueType)"="Z:\\System\\Library\\Fonts\\ArialHB.ttc"
+"Arial Italic (TrueType)"="Z:\\Library\\Fonts\\Arial Italic.ttf"
+"Arial Narrow (TrueType)"="Z:\\Library\\Fonts\\Arial Narrow.ttf"
+"Arial Narrow Bold (TrueType)"="Z:\\Library\\Fonts\\Arial Narrow Bold.ttf"
+"Arial Narrow Bold Italic (TrueType)"="Z:\\Library\\Fonts\\Arial Narrow Bold Italic.ttf"
+"Arial Narrow Italic (TrueType)"="Z:\\Library\\Fonts\\Arial Narrow Italic.ttf"
+"Arial Rounded MT Bold (TrueType)"="Z:\\Library\\Fonts\\Arial Rounded Bold.ttf"
+"Arial Unicode MS (TrueType)"="Z:\\Library\\Fonts\\Arial Unicode.ttf"
+"Avenir Black (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Black Oblique (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Book (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Book Oblique (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Heavy (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Heavy Oblique (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Light (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Light Oblique (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Medium (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Medium Oblique (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Next Bold (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Bold Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Condensed Bold (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Condensed Bold Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Condensed Demi Bold (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Condensed Demi Bold Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Condensed Heavy (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Condensed Heavy Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Condensed Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Condensed Medium (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Condensed Regular (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Demi Bold (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Demi Bold Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Heavy (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Heavy Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Medium (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Medium Condensed Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next Condensed.ttc"
+"Avenir Next Medium Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Regular (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Next Ultra Light Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Avenir Oblique (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir.ttc"
+"Avenir Roman (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir.ttc"
+"AvenirNext-UltraLight (TrueType)"="Z:\\System\\Library\\Fonts\\Avenir Next.ttc"
+"Ayuthaya (TrueType)"="Z:\\Library\\Fonts\\Ayuthaya.ttf"
+"Baghdad Regular (TrueType)"="Z:\\Library\\Fonts\\Baghdad.ttc"
+"Bangla MN (TrueType)"="Z:\\Library\\Fonts\\Bangla MN.ttc"
+"Bangla MN Bold (TrueType)"="Z:\\Library\\Fonts\\Bangla MN.ttc"
+"Bangla Sangam MN (TrueType)"="Z:\\Library\\Fonts\\Bangla Sangam MN.ttc"
+"Bangla Sangam MN Bold (TrueType)"="Z:\\Library\\Fonts\\Bangla Sangam MN.ttc"
+"Baoli SC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\92152aecbdf2ad75d661bdf4f117f7aa5dc44726.asset\\AssetData\\Baoli.ttc"
+"Baoli TC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\92152aecbdf2ad75d661bdf4f117f7aa5dc44726.asset\\AssetData\\Baoli.ttc"
+"Baskerville (TrueType)"="Z:\\Library\\Fonts\\Baskerville.ttc"
+"Baskerville Bold (TrueType)"="Z:\\Library\\Fonts\\Baskerville.ttc"
+"Baskerville Bold Italic (TrueType)"="Z:\\Library\\Fonts\\Baskerville.ttc"
+"Baskerville Italic (TrueType)"="Z:\\Library\\Fonts\\Baskerville.ttc"
+"Baskerville SemiBold (TrueType)"="Z:\\Library\\Fonts\\Baskerville.ttc"
+"Baskerville SemiBold Italic (TrueType)"="Z:\\Library\\Fonts\\Baskerville.ttc"
+"Beirut Regular (TrueType)"="Z:\\Library\\Fonts\\Beirut.ttc"
+"BiauKai (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\2c30d6c3696c866159496efa380f1bf9f8d4f713.asset\\AssetData\\BiauKai.ttf"
+"Big Caslon Medium (TrueType)"="Z:\\Library\\Fonts\\BigCaslon.ttf"
+"Bodoni 72 Bold (TrueType)"="Z:\\Library\\Fonts\\Bodoni 72.ttc"
+"Bodoni 72 Book (TrueType)"="Z:\\Library\\Fonts\\Bodoni 72.ttc"
+"Bodoni 72 Book Italic (TrueType)"="Z:\\Library\\Fonts\\Bodoni 72.ttc"
+"Bodoni 72 Oldstyle Bold (TrueType)"="Z:\\Library\\Fonts\\Bodoni 72 OS.ttc"
+"Bodoni 72 Oldstyle Book (TrueType)"="Z:\\Library\\Fonts\\Bodoni 72 OS.ttc"
+"Bodoni 72 Oldstyle Book Italic (TrueType)"="Z:\\Library\\Fonts\\Bodoni 72 OS.ttc"
+"Bodoni 72 Smallcaps Book (TrueType)"="Z:\\Library\\Fonts\\Bodoni 72 Smallcaps Book.ttf"
+"Bodoni Ornaments (TrueType)"="Z:\\Library\\Fonts\\Bodoni Ornaments.ttf"
+"Bradley Hand Bold (TrueType)"="Z:\\Library\\Fonts\\Bradley Hand Bold.ttf"
+"Brush Script MT Italic (TrueType)"="Z:\\Library\\Fonts\\Brush Script.ttf"
+"Chalkboard (TrueType)"="Z:\\Library\\Fonts\\Chalkboard.ttc"
+"Chalkboard Bold (TrueType)"="Z:\\Library\\Fonts\\Chalkboard.ttc"
+"Chalkboard SE Bold (TrueType)"="Z:\\Library\\Fonts\\ChalkboardSE.ttc"
+"Chalkboard SE Light (TrueType)"="Z:\\Library\\Fonts\\ChalkboardSE.ttc"
+"Chalkboard SE Regular (TrueType)"="Z:\\Library\\Fonts\\ChalkboardSE.ttc"
+"Chalkduster (TrueType)"="Z:\\Library\\Fonts\\Chalkduster.ttf"
+"Cochin (TrueType)"="Z:\\Library\\Fonts\\Cochin.ttc"
+"Cochin Bold (TrueType)"="Z:\\Library\\Fonts\\Cochin.ttc"
+"Cochin Bold Italic (TrueType)"="Z:\\Library\\Fonts\\Cochin.ttc"
+"Cochin Italic (TrueType)"="Z:\\Library\\Fonts\\Cochin.ttc"
+"Comic Sans MS (TrueType)"="Z:\\Library\\Fonts\\Comic Sans MS.ttf"
+"Comic Sans MS Bold (TrueType)"="Z:\\Library\\Fonts\\Comic Sans MS Bold.ttf"
+"Copperplate (TrueType)"="Z:\\Library\\Fonts\\Copperplate.ttc"
+"Copperplate Bold (TrueType)"="Z:\\Library\\Fonts\\Copperplate.ttc"
+"Copperplate Light (TrueType)"="Z:\\Library\\Fonts\\Copperplate.ttc"
+"Corsiva Hebrew (TrueType)"="Z:\\Library\\Fonts\\Corsiva.ttc"
+"Corsiva Hebrew Bold (TrueType)"="Z:\\Library\\Fonts\\Corsiva.ttc"
+"Courier New (TrueType)"="Z:\\Library\\Fonts\\Courier New.ttf"
+"Courier New Bold (TrueType)"="Z:\\Library\\Fonts\\Courier New Bold.ttf"
+"Courier New Bold Italic (TrueType)"="Z:\\Library\\Fonts\\Courier New Bold Italic.ttf"
+"Courier New Italic (TrueType)"="Z:\\Library\\Fonts\\Courier New Italic.ttf"
+"Damascus Regular (TrueType)"="Z:\\Library\\Fonts\\Damascus.ttc"
+"DecoType Naskh Regular (TrueType)"="Z:\\Library\\Fonts\\DecoTypeNaskh.ttc"
+"Devanagari MT (TrueType)"="Z:\\Library\\Fonts\\DevanagariMT.ttc"
+"Devanagari MT Bold (TrueType)"="Z:\\Library\\Fonts\\DevanagariMT.ttc"
+"Devanagari Sangam MN (TrueType)"="Z:\\Library\\Fonts\\Devanagari Sangam MN.ttc"
+"Devanagari Sangam MN Bold (TrueType)"="Z:\\Library\\Fonts\\Devanagari Sangam MN.ttc"
+"Didot (TrueType)"="Z:\\Library\\Fonts\\Didot.ttc"
+"Didot Bold (TrueType)"="Z:\\Library\\Fonts\\Didot.ttc"
+"Didot Italic (TrueType)"="Z:\\Library\\Fonts\\Didot.ttc"
+"Diwan Kufi Regular (TrueType)"="Z:\\Library\\Fonts\\Diwan Kufi.ttc"
+"Diwan Thuluth Regular (TrueType)"="Z:\\Library\\Fonts\\Diwan Thuluth.ttf"
+"Euphemia UCAS (TrueType)"="Z:\\Library\\Fonts\\EuphemiaCAS.ttc"
+"Euphemia UCAS Bold (TrueType)"="Z:\\Library\\Fonts\\EuphemiaCAS.ttc"
+"Euphemia UCAS Italic (TrueType)"="Z:\\Library\\Fonts\\EuphemiaCAS.ttc"
+"Farah Regular (TrueType)"="Z:\\Library\\Fonts\\Farah.ttc"
+"Farisi Regular (TrueType)"="Z:\\Library\\Fonts\\Farisi.ttf"
+"Futura Bold (TrueType)"="Z:\\Library\\Fonts\\Futura.ttc"
+"Futura Condensed ExtraBold (TrueType)"="Z:\\Library\\Fonts\\Futura.ttc"
+"Futura Condensed Medium (TrueType)"="Z:\\Library\\Fonts\\Futura.ttc"
+"Futura Medium (TrueType)"="Z:\\Library\\Fonts\\Futura.ttc"
+"Futura Medium Italic (TrueType)"="Z:\\Library\\Fonts\\Futura.ttc"
+"Geeza Pro Bold (TrueType)"="Z:\\System\\Library\\Fonts\\GeezaPro.ttc"
+"Geeza Pro Regular (TrueType)"="Z:\\System\\Library\\Fonts\\GeezaPro.ttc"
+"Geneva (TrueType)"="Z:\\Users\\Michael\\Library\\Caches\\Wine\\Fonts\\Geneva.dfont_4c24.ttf"
+"Georgia (TrueType)"="Z:\\Library\\Fonts\\Georgia.ttf"
+"Georgia Bold (TrueType)"="Z:\\Library\\Fonts\\Georgia Bold.ttf"
+"Georgia Bold Italic (TrueType)"="Z:\\Library\\Fonts\\Georgia Bold Italic.ttf"
+"Georgia Italic (TrueType)"="Z:\\Library\\Fonts\\Georgia Italic.ttf"
+"Gill Sans (TrueType)"="Z:\\Library\\Fonts\\GillSans.ttc"
+"Gill Sans Bold (TrueType)"="Z:\\Library\\Fonts\\GillSans.ttc"
+"Gill Sans Bold Italic (TrueType)"="Z:\\Library\\Fonts\\GillSans.ttc"
+"Gill Sans Italic (TrueType)"="Z:\\Library\\Fonts\\GillSans.ttc"
+"Gill Sans Light (TrueType)"="Z:\\Library\\Fonts\\GillSans.ttc"
+"Gill Sans Light Italic (TrueType)"="Z:\\Library\\Fonts\\GillSans.ttc"
+"Gill Sans SemiBold (TrueType)"="Z:\\Library\\Fonts\\GillSans.ttc"
+"Gill Sans SemiBold Italic (TrueType)"="Z:\\Library\\Fonts\\GillSans.ttc"
+"Gill Sans UltraBold (TrueType)"="Z:\\Library\\Fonts\\GillSans.ttc"
+"Gujarati MT (TrueType)"="Z:\\Library\\Fonts\\GujaratiMT.ttc"
+"Gujarati MT Bold (TrueType)"="Z:\\Library\\Fonts\\GujaratiMT.ttc"
+"Gujarati Sangam MN (TrueType)"="Z:\\Library\\Fonts\\Gujarati Sangam MN.ttc"
+"Gujarati Sangam MN Bold (TrueType)"="Z:\\Library\\Fonts\\Gujarati Sangam MN.ttc"
+"Gurmukhi MN (TrueType)"="Z:\\Library\\Fonts\\Gurmukhi MN.ttc"
+"Gurmukhi MN Bold (TrueType)"="Z:\\Library\\Fonts\\Gurmukhi MN.ttc"
+"Gurmukhi MT (TrueType)"="Z:\\Library\\Fonts\\Gurmukhi.ttf"
+"Gurmukhi Sangam MN (TrueType)"="Z:\\Library\\Fonts\\Gurmukhi Sangam MN.ttc"
+"Gurmukhi Sangam MN Bold (TrueType)"="Z:\\Library\\Fonts\\Gurmukhi Sangam MN.ttc"
+"Hannotate SC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\8286fa5728cf4ff70162044510359fb347c3daa3.asset\\AssetData\\Hannotate.ttc"
+"HanziPen SC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\b0f512e62835401c487712eb6a5a3196b7f6336d.asset\\AssetData\\Hanzipen.ttc"
+"Heiti SC Light (TrueType)"="Z:\\System\\Library\\Fonts\\STHeiti Light.ttc"
+"Heiti SC Medium (TrueType)"="Z:\\System\\Library\\Fonts\\STHeiti Medium.ttc"
+"Heiti TC Light (TrueType)"="Z:\\System\\Library\\Fonts\\STHeiti Light.ttc"
+"Heiti TC Medium (TrueType)"="Z:\\System\\Library\\Fonts\\STHeiti Medium.ttc"
+"Helvetica (TrueType)"="Z:\\System\\Library\\Fonts\\Helvetica.ttc"
+"Helvetica Bold (TrueType)"="Z:\\System\\Library\\Fonts\\Helvetica.ttc"
+"Helvetica Bold Oblique (TrueType)"="Z:\\System\\Library\\Fonts\\Helvetica.ttc"
+"Helvetica Light (TrueType)"="Z:\\System\\Library\\Fonts\\Helvetica.ttc"
+"Helvetica Light Oblique (TrueType)"="Z:\\System\\Library\\Fonts\\Helvetica.ttc"
+"Helvetica Neue (TrueType)"="Z:\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Bold (TrueType)"="Z:\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Bold Italic (TrueType)"="Z:\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Condensed Black (TrueType)"="Z:\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Condensed Bold (TrueType)"="Z:\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Italic (TrueType)"="Z:\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Light (TrueType)"="Z:\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Light Italic (TrueType)"="Z:\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Medium (TrueType)"="Z:\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Medium Italic (TrueType)"="Z:\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Thin (TrueType)"="Z:\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue Thin Italic (TrueType)"="Z:\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue UltraLight (TrueType)"="Z:\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Neue UltraLight Italic (TrueType)"="Z:\\System\\Library\\Fonts\\HelveticaNeue.ttc"
+"Helvetica Oblique (TrueType)"="Z:\\System\\Library\\Fonts\\Helvetica.ttc"
+"Herculanum (TrueType)"="Z:\\Library\\Fonts\\Herculanum.ttf"
+"Hiragino Sans CNS W3 (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\2214fce2d448b12feeaf856f5c080d409a5de8b5.asset\\AssetData\\Hiragino Sans CNS.ttc"
+"Hiragino Sans GB W3 (TrueType)"="Z:\\System\\Library\\Fonts\\Hiragino Sans GB.ttc"
+"Hiragino Sans W0 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W0.ttc"
+"Hiragino Sans W1 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W1.ttc"
+"Hiragino Sans W2 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W2.ttc"
+"Hiragino Sans W3 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W3.ttc"
+"Hiragino Sans W4 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W4.ttc"
+"Hiragino Sans W5 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W5.ttc"
+"Hiragino Sans W6 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W6.ttc"
+"Hiragino Sans W7 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W7.ttc"
+"Hiragino Sans W8 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W8.ttc"
+"Hiragino Sans W9 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x89d2\x30b4\x30b7\x30c3\x30af W9.ttc"
+"HiraMaruPro-W4 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x4e38\x30b4 ProN W4.ttc"
+"HiraMinProN-W3 (TrueType)"="Z:\\System\\Library\\Fonts\\\x30d2\x30e9\x30ae\x30ce\x660e\x671d ProN.ttc"
+"Hoefler Text (TrueType)"="Z:\\Library\\Fonts\\Hoefler Text.ttc"
+"Hoefler Text Black (TrueType)"="Z:\\Library\\Fonts\\Hoefler Text.ttc"
+"Hoefler Text Black Italic (TrueType)"="Z:\\Library\\Fonts\\Hoefler Text.ttc"
+"Hoefler Text Italic (TrueType)"="Z:\\Library\\Fonts\\Hoefler Text.ttc"
+"Hoefler Text Ornaments (TrueType)"="Z:\\Library\\Fonts\\Hoefler Text Ornaments.ttf"
+"Impact (TrueType)"="Z:\\Library\\Fonts\\Impact.ttf"
+"InaiMathi (TrueType)"="Z:\\Library\\Fonts\\InaiMathi-MN.ttc"
+"InaiMathi Bold (TrueType)"="Z:\\Library\\Fonts\\InaiMathi-MN.ttc"
+"ITFDevanagari-Book (TrueType)"="Z:\\Library\\Fonts\\ITFDevanagari.ttc"
+"Kailasa Bold (TrueType)"="Z:\\Library\\Fonts\\Kailasa.ttc"
+"Kailasa Regular (TrueType)"="Z:\\Library\\Fonts\\Kailasa.ttc"
+"Kaiti SC Black (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\5be3d73f826f7c53667868387d1f726793f9357a.asset\\AssetData\\Kaiti.ttc"
+"Kaiti SC Bold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\5be3d73f826f7c53667868387d1f726793f9357a.asset\\AssetData\\Kaiti.ttc"
+"Kaiti SC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\5be3d73f826f7c53667868387d1f726793f9357a.asset\\AssetData\\Kaiti.ttc"
+"Kaiti TC Black (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\5be3d73f826f7c53667868387d1f726793f9357a.asset\\AssetData\\Kaiti.ttc"
+"Kaiti TC Bold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\5be3d73f826f7c53667868387d1f726793f9357a.asset\\AssetData\\Kaiti.ttc"
+"Kaiti TC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\5be3d73f826f7c53667868387d1f726793f9357a.asset\\AssetData\\Kaiti.ttc"
+"Kannada MN (TrueType)"="Z:\\Library\\Fonts\\Kannada MN.ttc"
+"Kannada MN Bold (TrueType)"="Z:\\Library\\Fonts\\Kannada MN.ttc"
+"Kannada Sangam MN (TrueType)"="Z:\\Library\\Fonts\\Kannada Sangam MN.ttc"
+"Kannada Sangam MN Bold (TrueType)"="Z:\\Library\\Fonts\\Kannada Sangam MN.ttc"
+"Kefa Bold (TrueType)"="Z:\\Library\\Fonts\\Kefa.ttc"
+"Kefa Regular (TrueType)"="Z:\\Library\\Fonts\\Kefa.ttc"
+"Khmer MN (TrueType)"="Z:\\Library\\Fonts\\Khmer MN.ttc"
+"Khmer MN Bold (TrueType)"="Z:\\Library\\Fonts\\Khmer MN.ttc"
+"Khmer Sangam MN (TrueType)"="Z:\\Library\\Fonts\\Khmer Sangam MN.ttf"
+"Klee Demibold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\fe51de5d395a28b858f2e0c0e8d6147269b99863.asset\\AssetData\\Klee.ttc"
+"Kohinoor Bangla (TrueType)"="Z:\\System\\Library\\Fonts\\KohinoorBangla.ttc"
+"Kohinoor Devanagari Regular (TrueType)"="Z:\\System\\Library\\Fonts\\Kohinoor.ttc"
+"Kohinoor Telugu (TrueType)"="Z:\\System\\Library\\Fonts\\KohinoorTelugu.ttc"
+"Kokonor Regular (TrueType)"="Z:\\Library\\Fonts\\Kokonor.ttf"
+"Krungthep (TrueType)"="Z:\\Library\\Fonts\\Krungthep.ttf"
+"KufiStandardGK Regular (TrueType)"="Z:\\Library\\Fonts\\KufiStandardGK.ttc"
+"Lantinghei SC Demibold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\aed84407beb2ac420f609d37db1b340fc9e41102.asset\\AssetData\\Lantinghei.ttc"
+"Lantinghei SC Extralight (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\aed84407beb2ac420f609d37db1b340fc9e41102.asset\\AssetData\\Lantinghei.ttc"
+"Lantinghei SC Heavy (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\aed84407beb2ac420f609d37db1b340fc9e41102.asset\\AssetData\\Lantinghei.ttc"
+"Lantinghei TC Demibold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\aed84407beb2ac420f609d37db1b340fc9e41102.asset\\AssetData\\Lantinghei.ttc"
+"Lantinghei TC Extralight (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\aed84407beb2ac420f609d37db1b340fc9e41102.asset\\AssetData\\Lantinghei.ttc"
+"Lantinghei TC Heavy (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\aed84407beb2ac420f609d37db1b340fc9e41102.asset\\AssetData\\Lantinghei.ttc"
+"Lao MN (TrueType)"="Z:\\Library\\Fonts\\Lao MN.ttc"
+"Lao MN Bold (TrueType)"="Z:\\Library\\Fonts\\Lao MN.ttc"
+"Lao Sangam MN (TrueType)"="Z:\\Library\\Fonts\\Lao Sangam MN.ttf"
+"Libian SC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\7d39d6274826f69d8cf247c4a8ab7a7e2676dac8.asset\\AssetData\\Libian.ttc"
+"Libian TC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\7d39d6274826f69d8cf247c4a8ab7a7e2676dac8.asset\\AssetData\\Libian.ttc"
+"LiHei Pro (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\35dcc68ff28855200cfbbf601ab9ffccc63da0ef.asset\\AssetData\\\x5137\x9ed1 Pro.ttf"
+"LingWai SC Medium (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\ed824bbb6cc8e350380f7d46d51078cd60fdb5e5.asset\\AssetData\\LingWaiSC-Medium.otf"
+"LingWai TC Medium (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\b78e29b1771eb0b6f1fd764abdf8faee6b703d75.asset\\AssetData\\LingWaiTC-Medium.otf"
+"LiSong Pro (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\557eba36984ba9b15edfddaf65df25401703f845.asset\\AssetData\\\x5137\x5b8b Pro.ttf"
+"Lucida Grande (TrueType)"="Z:\\System\\Library\\Fonts\\LucidaGrande.ttc"
+"Lucida Grande Bold (TrueType)"="Z:\\System\\Library\\Fonts\\LucidaGrande.ttc"
+"Luminari (TrueType)"="Z:\\Library\\Fonts\\Luminari.ttf"
+"Malayalam MN (TrueType)"="Z:\\Library\\Fonts\\Malayalam MN.ttc"
+"Malayalam MN Bold (TrueType)"="Z:\\Library\\Fonts\\Malayalam MN.ttc"
+"Malayalam Sangam MN (TrueType)"="Z:\\Library\\Fonts\\Malayalam Sangam MN.ttc"
+"Malayalam Sangam MN Bold (TrueType)"="Z:\\Library\\Fonts\\Malayalam Sangam MN.ttc"
+"Marker Felt Thin (TrueType)"="Z:\\System\\Library\\Fonts\\MarkerFelt.ttc"
+"Marker Felt Wide (TrueType)"="Z:\\System\\Library\\Fonts\\MarkerFelt.ttc"
+"Marlett (TrueType)"="Z:\\Users\\Michael\\Applications\\Wineskin\\osu!.app\\Contents\\Frameworks\\wswine.bundle\\lib\\..\\bin\\..\\share\\wine\\fonts\\marlett.ttf"
+"Menlo Bold (TrueType)"="Z:\\System\\Library\\Fonts\\Menlo.ttc"
+"Menlo Bold Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Menlo.ttc"
+"Menlo Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Menlo.ttc"
+"Menlo Regular (TrueType)"="Z:\\System\\Library\\Fonts\\Menlo.ttc"
+"Microsoft Sans Serif (TrueType)"="Z:\\Library\\Fonts\\Microsoft Sans Serif.ttf"
+"Mishafi Gold Regular (TrueType)"="Z:\\Library\\Fonts\\Mishafi Gold.ttf"
+"Mishafi Regular (TrueType)"="Z:\\Library\\Fonts\\Mishafi.ttf"
+"Monaco (TrueType)"="Z:\\Users\\Michael\\Library\\Caches\\Wine\\Fonts\\Monaco.dfont_30b4.ttf"
+"Mshtakan (TrueType)"="Z:\\Library\\Fonts\\Mshtakan.ttc"
+"Mshtakan Bold (TrueType)"="Z:\\Library\\Fonts\\Mshtakan.ttc"
+"Mshtakan BoldOblique (TrueType)"="Z:\\Library\\Fonts\\Mshtakan.ttc"
+"Mshtakan Oblique (TrueType)"="Z:\\Library\\Fonts\\Mshtakan.ttc"
+"Muna Regular (TrueType)"="Z:\\Library\\Fonts\\Muna.ttc"
+"Myanmar MN (TrueType)"="Z:\\Library\\Fonts\\Myanmar MN.ttc"
+"Myanmar MN Bold (TrueType)"="Z:\\Library\\Fonts\\Myanmar MN.ttc"
+"Myanmar Sangam MN (TrueType)"="Z:\\Library\\Fonts\\Myanmar Sangam MN.ttc"
+"Myanmar Sangam MN Bold (TrueType)"="Z:\\Library\\Fonts\\Myanmar Sangam MN.ttc"
+"Nadeem Regular (TrueType)"="Z:\\Library\\Fonts\\Nadeem.ttc"
+"Nanum Brush Script (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\600deb70a5bbf402aaa93803e8f09b7b689776a5.asset\\AssetData\\NanumScript.ttc"
+"Nanum Pen Script (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\600deb70a5bbf402aaa93803e8f09b7b689776a5.asset\\AssetData\\NanumScript.ttc"
+"NanumGothic (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\b598cebd39ccc6bde14b5c6b15289fe7ee234f76.asset\\AssetData\\NanumGothic.ttc"
+"NanumGothic Bold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\b598cebd39ccc6bde14b5c6b15289fe7ee234f76.asset\\AssetData\\NanumGothic.ttc"
+"NanumGothic ExtraBold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\b598cebd39ccc6bde14b5c6b15289fe7ee234f76.asset\\AssetData\\NanumGothic.ttc"
+"NanumMyeongjo (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\0716db48710b2572d6f4feba1756b237985a3bf3.asset\\AssetData\\NanumMyeongjo.ttc"
+"NanumMyeongjoBold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\0716db48710b2572d6f4feba1756b237985a3bf3.asset\\AssetData\\NanumMyeongjo.ttc"
+"NanumMyeongjoExtraBold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\0716db48710b2572d6f4feba1756b237985a3bf3.asset\\AssetData\\NanumMyeongjo.ttc"
+"New Peninim MT (TrueType)"="Z:\\Library\\Fonts\\NewPeninimMT.ttc"
+"New Peninim MT Bold (TrueType)"="Z:\\Library\\Fonts\\NewPeninimMT.ttc"
+"New Peninim MT Bold Inclined (TrueType)"="Z:\\Library\\Fonts\\NewPeninimMT.ttc"
+"New Peninim MT Inclined (TrueType)"="Z:\\Library\\Fonts\\NewPeninimMT.ttc"
+"Noteworthy Bold (TrueType)"="Z:\\System\\Library\\Fonts\\Noteworthy.ttc"
+"Noteworthy Light (TrueType)"="Z:\\System\\Library\\Fonts\\Noteworthy.ttc"
+"Noto Nastaliq Urdu (TrueType)"="Z:\\System\\Library\\Fonts\\NotoNastaliq.ttc"
+"Optima Bold (TrueType)"="Z:\\System\\Library\\Fonts\\Optima.ttc"
+"Optima Bold Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Optima.ttc"
+"Optima ExtraBlack (TrueType)"="Z:\\System\\Library\\Fonts\\Optima.ttc"
+"Optima Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Optima.ttc"
+"Optima Regular (TrueType)"="Z:\\System\\Library\\Fonts\\Optima.ttc"
+"Oriya MN (TrueType)"="Z:\\Library\\Fonts\\Oriya MN.ttc"
+"Oriya MN Bold (TrueType)"="Z:\\Library\\Fonts\\Oriya MN.ttc"
+"Oriya Sangam MN (TrueType)"="Z:\\Library\\Fonts\\Oriya Sangam MN.ttc"
+"Oriya Sangam MN Bold (TrueType)"="Z:\\Library\\Fonts\\Oriya Sangam MN.ttc"
+"Osaka (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\acb8d3e175dceb7fdc95323ecd69bd23393da4db.asset\\AssetData\\Osaka.ttf"
+"Osaka-Mono (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\0759a276911edef09d507f08302cd932bac5c3ec.asset\\AssetData\\OsakaMono.ttf"
+"Palatino (TrueType)"="Z:\\System\\Library\\Fonts\\Palatino.ttc"
+"Palatino Bold (TrueType)"="Z:\\System\\Library\\Fonts\\Palatino.ttc"
+"Palatino Bold Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Palatino.ttc"
+"Palatino Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Palatino.ttc"
+"Papyrus (TrueType)"="Z:\\Library\\Fonts\\Papyrus.ttc"
+"Papyrus Condensed (TrueType)"="Z:\\Library\\Fonts\\Papyrus.ttc"
+"Phosphate Inline (TrueType)"="Z:\\Library\\Fonts\\Phosphate.ttc"
+"Phosphate Solid (TrueType)"="Z:\\Library\\Fonts\\Phosphate.ttc"
+"PingFang HK Regular (TrueType)"="Z:\\System\\Library\\Fonts\\PingFang.ttc"
+"Plantagenet Cherokee (TrueType)"="Z:\\Library\\Fonts\\PlantagenetCherokee.ttf"
+"PT Mono (TrueType)"="Z:\\Library\\Fonts\\PTMono.ttc"
+"PT Mono Bold (TrueType)"="Z:\\Library\\Fonts\\PTMono.ttc"
+"PT Sans (TrueType)"="Z:\\Library\\Fonts\\PTSans.ttc"
+"PT Sans Bold (TrueType)"="Z:\\Library\\Fonts\\PTSans.ttc"
+"PT Sans Bold Italic (TrueType)"="Z:\\Library\\Fonts\\PTSans.ttc"
+"PT Sans Caption (TrueType)"="Z:\\Library\\Fonts\\PTSans.ttc"
+"PT Sans Caption Bold (TrueType)"="Z:\\Library\\Fonts\\PTSans.ttc"
+"PT Sans Italic (TrueType)"="Z:\\Library\\Fonts\\PTSans.ttc"
+"PT Sans Narrow (TrueType)"="Z:\\Library\\Fonts\\PTSans.ttc"
+"PT Sans Narrow Bold (TrueType)"="Z:\\Library\\Fonts\\PTSans.ttc"
+"PT Serif (TrueType)"="Z:\\Library\\Fonts\\PTSerif.ttc"
+"PT Serif Bold (TrueType)"="Z:\\Library\\Fonts\\PTSerif.ttc"
+"PT Serif Bold Italic (TrueType)"="Z:\\Library\\Fonts\\PTSerif.ttc"
+"PT Serif Caption (TrueType)"="Z:\\Library\\Fonts\\PTSerifCaption.ttc"
+"PT Serif Caption Italic (TrueType)"="Z:\\Library\\Fonts\\PTSerifCaption.ttc"
+"PT Serif Italic (TrueType)"="Z:\\Library\\Fonts\\PTSerif.ttc"
+"Raanana (TrueType)"="Z:\\Library\\Fonts\\Raanana.ttc"
+"Raanana Bold (TrueType)"="Z:\\Library\\Fonts\\Raanana.ttc"
+"Sana Regular (TrueType)"="Z:\\Library\\Fonts\\Sana.ttc"
+"Sathu (TrueType)"="Z:\\Library\\Fonts\\Sathu.ttf"
+"Savoye LET Plain:1.0 (TrueType)"="Z:\\Library\\Fonts\\Savoye LET.ttc"
+"Shree Devanagari 714 (TrueType)"="Z:\\Library\\Fonts\\Shree714.ttc"
+"Shree Devanagari 714 Bold (TrueType)"="Z:\\Library\\Fonts\\Shree714.ttc"
+"Shree Devanagari 714 Bold Italic (TrueType)"="Z:\\Library\\Fonts\\Shree714.ttc"
+"Shree Devanagari 714 Italic (TrueType)"="Z:\\Library\\Fonts\\Shree714.ttc"
+"SignPainter-HouseScript (TrueType)"="Z:\\Library\\Fonts\\SignPainter.ttc"
+"Silom (TrueType)"="Z:\\Library\\Fonts\\Silom.ttf"
+"Sinhala MN (TrueType)"="Z:\\Library\\Fonts\\Sinhala MN.ttc"
+"Sinhala MN Bold (TrueType)"="Z:\\Library\\Fonts\\Sinhala MN.ttc"
+"Sinhala Sangam MN (TrueType)"="Z:\\Library\\Fonts\\Sinhala Sangam MN.ttc"
+"Sinhala Sangam MN Bold (TrueType)"="Z:\\Library\\Fonts\\Sinhala Sangam MN.ttc"
+"Skia (TrueType)"="Z:\\Library\\Fonts\\Skia.ttf"
+"Snell Roundhand (TrueType)"="Z:\\Library\\Fonts\\SnellRoundhand.ttc"
+"Snell Roundhand Black (TrueType)"="Z:\\Library\\Fonts\\SnellRoundhand.ttc"
+"Snell Roundhand Bold (TrueType)"="Z:\\Library\\Fonts\\SnellRoundhand.ttc"
+"Songti SC Black (TrueType)"="Z:\\Library\\Fonts\\Songti.ttc"
+"Songti SC Bold (TrueType)"="Z:\\Library\\Fonts\\Songti.ttc"
+"Songti SC Light (TrueType)"="Z:\\Library\\Fonts\\Songti.ttc"
+"Songti SC Regular (TrueType)"="Z:\\Library\\Fonts\\Songti.ttc"
+"Songti TC Bold (TrueType)"="Z:\\Library\\Fonts\\Songti.ttc"
+"Songti TC Regular (TrueType)"="Z:\\Library\\Fonts\\Songti.ttc"
+"STFangsong (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\c53a52ebbeb621b1f78ccca82756baeaf1450634.asset\\AssetData\\\x534e\x6587\x4eff\x5b8b.ttf"
+"STHeiti (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\363ebbd11ddb2d7ee08dee3239bfc745e450509f.asset\\AssetData\\\x534e\x6587\x9ed1\x4f53.ttf"
+"STIXGeneral-Bold (TrueType)"="Z:\\Library\\Fonts\\STIXGeneralBol.otf"
+"STIXGeneral-BoldItalic (TrueType)"="Z:\\Library\\Fonts\\STIXGeneralBolIta.otf"
+"STIXGeneral-Italic (TrueType)"="Z:\\Library\\Fonts\\STIXGeneralItalic.otf"
+"STIXGeneral-Regular (TrueType)"="Z:\\Library\\Fonts\\STIXGeneral.otf"
+"STIXIntegralsD-Bold (TrueType)"="Z:\\Library\\Fonts\\STIXIntDBol.otf"
+"STIXIntegralsD-Regular (TrueType)"="Z:\\Library\\Fonts\\STIXIntDReg.otf"
+"STIXIntegralsSm-Bold (TrueType)"="Z:\\Library\\Fonts\\STIXIntSmBol.otf"
+"STIXIntegralsSm-Regular (TrueType)"="Z:\\Library\\Fonts\\STIXIntSmReg.otf"
+"STIXIntegralsUp-Bold (TrueType)"="Z:\\Library\\Fonts\\STIXIntUpBol.otf"
+"STIXIntegralsUp-Regular (TrueType)"="Z:\\Library\\Fonts\\STIXIntUpReg.otf"
+"STIXIntegralsUpD-Bold (TrueType)"="Z:\\Library\\Fonts\\STIXIntUpDBol.otf"
+"STIXIntegralsUpD-Regular (TrueType)"="Z:\\Library\\Fonts\\STIXIntUpDReg.otf"
+"STIXIntegralsUpSm-Bold (TrueType)"="Z:\\Library\\Fonts\\STIXIntUpSmBol.otf"
+"STIXIntegralsUpSm-Regular (TrueType)"="Z:\\Library\\Fonts\\STIXIntUpSmReg.otf"
+"STIXNonUnicode-Bold (TrueType)"="Z:\\Library\\Fonts\\STIXNonUniBol.otf"
+"STIXNonUnicode-BoldItalic (TrueType)"="Z:\\Library\\Fonts\\STIXNonUniBolIta.otf"
+"STIXNonUnicode-Italic (TrueType)"="Z:\\Library\\Fonts\\STIXNonUniIta.otf"
+"STIXNonUnicode-Regular (TrueType)"="Z:\\Library\\Fonts\\STIXNonUni.otf"
+"STIXSizeFiveSym-Regular (TrueType)"="Z:\\Library\\Fonts\\STIXSizFiveSymReg.otf"
+"STIXSizeFourSym-Bold (TrueType)"="Z:\\Library\\Fonts\\STIXSizFourSymBol.otf"
+"STIXSizeFourSym-Regular (TrueType)"="Z:\\Library\\Fonts\\STIXSizFourSymReg.otf"
+"STIXSizeOneSym-Bold (TrueType)"="Z:\\Library\\Fonts\\STIXSizOneSymBol.otf"
+"STIXSizeOneSym-Regular (TrueType)"="Z:\\Library\\Fonts\\STIXSizOneSymReg.otf"
+"STIXSizeThreeSym-Bold (TrueType)"="Z:\\Library\\Fonts\\STIXSizThreeSymBol.otf"
+"STIXSizeThreeSym-Regular (TrueType)"="Z:\\Library\\Fonts\\STIXSizThreeSymReg.otf"
+"STIXSizeTwoSym-Bold (TrueType)"="Z:\\Library\\Fonts\\STIXSizTwoSymBol.otf"
+"STIXSizeTwoSym-Regular (TrueType)"="Z:\\Library\\Fonts\\STIXSizTwoSymReg.otf"
+"STIXVariants-Bold (TrueType)"="Z:\\Library\\Fonts\\STIXVarBol.otf"
+"STIXVariants-Regular (TrueType)"="Z:\\Library\\Fonts\\STIXVar.otf"
+"STKaiti (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\5be3d73f826f7c53667868387d1f726793f9357a.asset\\AssetData\\Kaiti.ttc"
+"STSong (TrueType)"="Z:\\Library\\Fonts\\Songti.ttc"
+"STXihei (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\2d6bade0aafd537c90d41ba45eb7d0cd1461738b.asset\\AssetData\\\x534e\x6587\x7ec6\x9ed1.ttf"
+"SukhumvitSet-Bold (TrueType)"="Z:\\Library\\Fonts\\SukhumvitSet.ttc"
+"SukhumvitSet-Light (TrueType)"="Z:\\Library\\Fonts\\SukhumvitSet.ttc"
+"SukhumvitSet-Medium (TrueType)"="Z:\\Library\\Fonts\\SukhumvitSet.ttc"
+"SukhumvitSet-SemiBold (TrueType)"="Z:\\Library\\Fonts\\SukhumvitSet.ttc"
+"SukhumvitSet-Text (TrueType)"="Z:\\Library\\Fonts\\SukhumvitSet.ttc"
+"SukhumvitSet-Thin (TrueType)"="Z:\\Library\\Fonts\\SukhumvitSet.ttc"
+"Symbol (TrueType)"="Z:\\Users\\Michael\\Applications\\Wineskin\\osu!.app\\Contents\\Frameworks\\wswine.bundle\\lib\\..\\bin\\..\\share\\wine\\fonts\\symbol.ttf"
+"Tahoma (TrueType)"="Z:\\Library\\Fonts\\Tahoma.ttf"
+"Tahoma Bold (TrueType)"="Z:\\Library\\Fonts\\Tahoma Bold.ttf"
+"Tamil MN (TrueType)"="Z:\\Library\\Fonts\\Tamil MN.ttc"
+"Tamil MN Bold (TrueType)"="Z:\\Library\\Fonts\\Tamil MN.ttc"
+"Tamil Sangam MN (TrueType)"="Z:\\Library\\Fonts\\Tamil Sangam MN.ttc"
+"Tamil Sangam MN Bold (TrueType)"="Z:\\Library\\Fonts\\Tamil Sangam MN.ttc"
+"TeamViewer12 (TrueType)"="Z:\\Library\\Fonts\\TeamViewer12.otf"
+"Telugu MN (TrueType)"="Z:\\Library\\Fonts\\Telugu MN.ttc"
+"Telugu MN Bold (TrueType)"="Z:\\Library\\Fonts\\Telugu MN.ttc"
+"Telugu Sangam MN (TrueType)"="Z:\\Library\\Fonts\\Telugu Sangam MN.ttc"
+"Telugu Sangam MN Bold (TrueType)"="Z:\\Library\\Fonts\\Telugu Sangam MN.ttc"
+"Thonburi (TrueType)"="Z:\\System\\Library\\Fonts\\Thonburi.ttc"
+"Thonburi Bold (TrueType)"="Z:\\System\\Library\\Fonts\\Thonburi.ttc"
+"Thonburi Light (TrueType)"="Z:\\System\\Library\\Fonts\\Thonburi.ttc"
+"Times Bold (TrueType)"="Z:\\System\\Library\\Fonts\\Times.ttc"
+"Times Bold Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Times.ttc"
+"Times Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Times.ttc"
+"Times New Roman (TrueType)"="Z:\\Library\\Fonts\\Times New Roman.ttf"
+"Times New Roman Bold (TrueType)"="Z:\\Library\\Fonts\\Times New Roman Bold.ttf"
+"Times New Roman Bold Italic (TrueType)"="Z:\\Library\\Fonts\\Times New Roman Bold Italic.ttf"
+"Times New Roman Italic (TrueType)"="Z:\\Library\\Fonts\\Times New Roman Italic.ttf"
+"Times Roman (TrueType)"="Z:\\System\\Library\\Fonts\\Times.ttc"
+"Toppan Bunkyu Gothic Demibold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\05f36dc1b24617129003c24e36919ce09992d714.asset\\AssetData\\ToppanBunkyuGothic.ttc"
+"Toppan Bunkyu Mincho Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\88788fcd663eebfb3865a9be7c7c18aacf111ddd.asset\\AssetData\\ToppanBunkyuMincho-Regular.otf"
+"Trattatello (TrueType)"="Z:\\Library\\Fonts\\Trattatello.ttf"
+"Trebuchet MS (TrueType)"="Z:\\Library\\Fonts\\Trebuchet MS.ttf"
+"Trebuchet MS Bold (TrueType)"="Z:\\Library\\Fonts\\Trebuchet MS Bold.ttf"
+"Trebuchet MS Bold Italic (TrueType)"="Z:\\Library\\Fonts\\Trebuchet MS Bold Italic.ttf"
+"Trebuchet MS Italic (TrueType)"="Z:\\Library\\Fonts\\Trebuchet MS Italic.ttf"
+"Tsukushi A Round Gothic Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\d6e9dcac5c6ac0dc313e3ec1006275231998ba55.asset\\AssetData\\TsukushiAMaruGothic.ttc"
+"Tsukushi B Round Gothic Regula (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\35c3902a625141985f509a1cf8f616185e1d0d9a.asset\\AssetData\\TsukushiBMaruGothic.ttc"
+"Verdana (TrueType)"="Z:\\Library\\Fonts\\Verdana.ttf"
+"Verdana Bold (TrueType)"="Z:\\Library\\Fonts\\Verdana Bold.ttf"
+"Verdana Bold Italic (TrueType)"="Z:\\Library\\Fonts\\Verdana Bold Italic.ttf"
+"Verdana Italic (TrueType)"="Z:\\Library\\Fonts\\Verdana Italic.ttf"
+"Waseem Light (TrueType)"="Z:\\Library\\Fonts\\Waseem.ttc"
+"Waseem Regular (TrueType)"="Z:\\Library\\Fonts\\Waseem.ttc"
+"Wawati SC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\c503525321446eb448646915e69d53ee3601cae7.asset\\AssetData\\WawaSC-Regular.otf"
+"Wawati TC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\323de3ba74525f2f7b3e592ebee94a52875fd980.asset\\AssetData\\WawaTC-Regular.otf"
+"Webdings (TrueType)"="Z:\\Library\\Fonts\\Webdings.ttf"
+"Wingdings (TrueType)"="Z:\\Library\\Fonts\\Wingdings.ttf"
+"Wingdings 2 (TrueType)"="Z:\\Library\\Fonts\\Wingdings 2.ttf"
+"Wingdings 3 (TrueType)"="Z:\\Library\\Fonts\\Wingdings 3.ttf"
+"Xingkai SC Bold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\a5d8aab094d42743cf25543bc3b286d888b11a63.asset\\AssetData\\Xingkai.ttc"
+"Xingkai SC Light (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\a5d8aab094d42743cf25543bc3b286d888b11a63.asset\\AssetData\\Xingkai.ttc"
+"Xingkai TC Light (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\a5d8aab094d42743cf25543bc3b286d888b11a63.asset\\AssetData\\Xingkai.ttc"
+"Yuanti SC Bold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\52ad7cda970d8fb942191c05639bb690f1d749b3.asset\\AssetData\\Yuanti.ttc"
+"Yuanti SC Light (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\52ad7cda970d8fb942191c05639bb690f1d749b3.asset\\AssetData\\Yuanti.ttc"
+"Yuanti SC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\52ad7cda970d8fb942191c05639bb690f1d749b3.asset\\AssetData\\Yuanti.ttc"
+"Yuanti TC Bold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\52ad7cda970d8fb942191c05639bb690f1d749b3.asset\\AssetData\\Yuanti.ttc"
+"Yuanti TC Light (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\52ad7cda970d8fb942191c05639bb690f1d749b3.asset\\AssetData\\Yuanti.ttc"
+"Yuanti TC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\52ad7cda970d8fb942191c05639bb690f1d749b3.asset\\AssetData\\Yuanti.ttc"
+"YuGothic Bold (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\4d475442f8402d618791a77edd7e9b0a738090ed.asset\\AssetData\\Yu Gothic Bold.otf"
+"YuGothic Medium (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\5bae6c7f428d4972a6a35c218a406bbc984de88d.asset\\AssetData\\Yu Gothic Medium.otf"
+"YuKyokasho Yoko Medium (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\54c54d83907c88c126746aa6edcc448c2f90205a.asset\\AssetData\\Kyokasho.ttc"
+"YuMincho Medium (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\e6e8d8d3ad5bd3ec492d478d87a7deeb475e7971.asset\\AssetData\\YuMincho.ttc"
+"Yuppy SC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\99ee04cbc68e8d7a79a32c8d8e533c8272fb093d.asset\\AssetData\\YuppySC-Regular.otf"
+"Yuppy TC Regular (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\edc54b107c416976a4702f799866138e89971b6b.asset\\AssetData\\YuppyTC-Regular.otf"
+"Zapf Dingbats (TrueType)"="Z:\\System\\Library\\Fonts\\ZapfDingbats.ttf"
+"Zapfino (TrueType)"="Z:\\Library\\Fonts\\Zapfino.ttf"
+
+[Software\\Wine\\Fonts\\Replacements] 1504926418
+#time=1d32918b2f8e256
+"Arial Unicode MS"="Unifont"
+"Batang"="Baekmuk Batang"
+"BatangChe"="Baekmuk Batang"
+"DFKai-SB"="WenQuanYi Micro Hei"
+"Dotum"="Baekmuk Dotum"
+"DotumChe"="Baekmuk Dotum"
+"FangSong"="WenQuanYi Micro Hei"
+"Gulim"="Baekmuk Gulim"
+"GulimChe"="Baekmuk Gulim"
+"KaiTi"="WenQuanYi Micro Hei"
+"Microsoft JhengHei"="WenQuanYi Micro Hei"
+"Microsoft YaHei"="WenQuanYi Micro Hei"
+"MingLiU"="WenQuanYi Micro Hei"
+"MS Gothic"="TakaoGothic"
+"MS Mincho"="TakaoMincho"
+"MS PGothic"="TakaoPGothic"
+"MS PMincho"="TakaoPMincho"
+"MS UI Gothic"="TakaoGothic"
+"NSimSun"="WenQuanYi Micro Hei"
+"PMingLiU"="WenQuanYi Micro Hei"
+"SimHei"="WenQuanYi Micro Hei"
+"SimKai"="WenQuanYi Micro Hei"
+"SimSun"="WenQuanYi Micro Hei"
+
+[Software\\Wine\\Mac Driver] 1504926207
+#time=1d329183523e86c
+"CaptureDisplaysForFullscreen"="y"
+
+[Software\\Wine\\MenuFiles] 1504926207
+#time=1d32918357a20ec
+
+[Software\\Wine\\X11 Driver] 1240428288
+#time=1c9c38000000000
+"Decorated"="N"
+"Managed"="N"
