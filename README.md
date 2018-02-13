@@ -34,3 +34,9 @@ To move the beatmaps faster, open terminal and type this command follow by retur
 * echo "alias osu='mv ~/Downloads/*.osz /Applications/osu\!.app/drive_c/Program\ Files/osu\!/songs'" >> .bash_profile
 
 Restart terminal and from now on, you can simply type "osu" in the terminal to move all newly download beatmaps from download folder to game beatmap folder, don't forget to fn+f5 to refresh the game list
+
+---------------------------
+### osu! Failed to Download discord-rpc.dll:
+As osu! client cannot download discord-rpc.dll automatically, which would result in a infinity loop, this file is uploaded to fix this issue. Simply move it in the osu! root folder (/Applications/osu!.app/drive_c/Program Files/osu!) and the game should be able to start.
+
+New downloader please disgard discord-rpc.dll as this has been placed in the game folder for you.
