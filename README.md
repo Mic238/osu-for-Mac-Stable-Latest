@@ -26,7 +26,7 @@
 
 ---------------------------
 ### Testing Environment:
-Mac Mini (Late 2014) 2.6GHz, 8G Memory, 256G SSD, MacOS High Sierra Public Beta 8, Wrapper Wineskin-2.6.2, Engine WS9Wine2.12
+Mac Mini (Late 2014) 2.6GHz, 8G Memory, 256G SSD, MacOS High Sierra 10.13.4, Wrapper Wineskin-2.6.2, Engine WS9Wine2.22
 
 ---------------------------
 ### A Little Bouns for all:
@@ -39,4 +39,6 @@ Restart terminal and from now on, you can simply type "osu" in the terminal to m
 ### osu! Failed to Download discord-rpc.dll:
 As osu! client cannot download discord-rpc.dll automatically, which would result in a infinity loop, this file is uploaded to fix this issue. Simply move it in the osu! root folder (/Applications/osu!.app/drive_c/Program Files/osu!) and the game should be able to start.
 
-New downloader please disgard discord-rpc.dll as this has been placed in the game folder for you.
+---------------------------
+### Updated Default Install Location:
+On the latest testing, the default install location for osu! was changed to C:/Users/[User]/Local Settings, which would result in infinity installation. If that's the case for you, please manually change it to drive_c/Program Files/osu!, in order to get everything works.

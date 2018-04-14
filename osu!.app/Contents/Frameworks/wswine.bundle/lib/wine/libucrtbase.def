@@ -108,12 +108,15 @@ EXPORTS
   __std_type_info_hash=MSVCRT_type_info_hash @146
   __std_type_info_name=MSVCRT_type_info_name_list @147
   __stdio_common_vfprintf=MSVCRT__stdio_common_vfprintf @148
+  __stdio_common_vfprintf_s=MSVCRT__stdio_common_vfprintf_s @150
   __stdio_common_vfscanf=MSVCRT__stdio_common_vfscanf @151
   __stdio_common_vfwprintf=MSVCRT__stdio_common_vfwprintf @152
+  __stdio_common_vfwprintf_s=MSVCRT__stdio_common_vfwprintf_s @154
   __stdio_common_vfwscanf=MSVCRT__stdio_common_vfwscanf @155
   __stdio_common_vsnprintf_s=MSVCRT__stdio_common_vsnprintf_s @156
   __stdio_common_vsnwprintf_s=MSVCRT__stdio_common_vsnwprintf_s @157
   __stdio_common_vsprintf=MSVCRT__stdio_common_vsprintf @158
+  __stdio_common_vsprintf_p=MSVCRT__stdio_common_vsprintf_p @159
   __stdio_common_vsprintf_s=MSVCRT__stdio_common_vsprintf_s @160
   __stdio_common_vsscanf=MSVCRT__stdio_common_vsscanf @161
   __stdio_common_vswprintf=MSVCRT__stdio_common_vswprintf @162
@@ -296,6 +299,7 @@ EXPORTS
   _get_osfhandle=MSVCRT__get_osfhandle @370
   _get_pgmptr @371
   _get_printf_count_output=MSVCRT__get_printf_count_output @372
+  _get_purecall_handler @373
   _get_stream_buffer_pointers=MSVCRT__get_stream_buffer_pointers @374
   _get_terminate=MSVCRT__get_terminate @375
   _get_thread_local_invalid_parameter_handler @376
@@ -367,6 +371,7 @@ EXPORTS
   _ismbcgraph @471
   _ismbchira @473
   _ismbckata @475
+  _ismbcl0 @477
   _ismbclegal @483
   _ismbcprint @487
   _ismbcpunct @489
@@ -438,6 +443,9 @@ EXPORTS
   _mbbtombc @579
   _mbbtype @581
   _mbccpy @584
+  _mbccpy_l @585
+  _mbccpy_s @586
+  _mbccpy_s_l @587
   _mbcjistojms @588
   _mbcjmstojis @590
   _mbclen @592
@@ -462,6 +470,7 @@ EXPORTS
   _mbsicoll_l @625
   _mbsinc @626
   _mbslen @628
+  _mbslen_l @629
   _mbslwr @630
   _mbslwr_s @632
   _mbsnbcat @634
@@ -484,6 +493,8 @@ EXPORTS
   _mbsnextc @670
   _mbsnicmp @672
   _mbsninc @676
+  _mbsnlen @678
+  _mbsnlen_l @679
   _mbsnset @680
   _mbspbrk @684
   _mbsrchr @686
@@ -504,7 +515,8 @@ EXPORTS
   _mbsupr_s @712
   _mbtowc_l=MSVCRT_mbtowc_l @714
   _memccpy=ntdll._memccpy @715
-  _memicmp=ntdll._memicmp @716
+  _memicmp=MSVCRT__memicmp @716
+  _memicmp_l=MSVCRT__memicmp_l @717
   _mkdir=MSVCRT__mkdir @718
   _mkgmtime32=MSVCRT__mkgmtime32 @719
   _mkgmtime64=MSVCRT__mkgmtime64 @720
@@ -534,6 +546,7 @@ EXPORTS
   _realloc_base @1856
   _recalloc @1857
   _register_onexit_function=MSVCRT__register_onexit_function @1858
+  _register_thread_local_exe_atexit_callback @1859
   _resetstkoflw=MSVCRT__resetstkoflw @1860
   _rmdir=MSVCRT__rmdir @1861
   _rmtmp=MSVCRT__rmtmp @1862
@@ -805,6 +818,9 @@ EXPORTS
   abort=MSVCRT_abort @2144
   abs=MSVCRT_abs @2145
   acos=MSVCRT_acos @2146
+  acosh=MSVCR120_acosh @2147
+  acoshf=MSVCR120_acoshf @2148
+  acoshl=MSVCR120_acoshl @2149
   asctime=MSVCRT_asctime @2150
   asctime_s=MSVCRT_asctime_s @2151
   asin=MSVCRT_asin @2152
@@ -813,6 +829,9 @@ EXPORTS
   asinhl=MSVCR120_asinhl @2155
   atan=MSVCRT_atan @2156
   atan2=MSVCRT_atan2 @2157
+  atanh=MSVCR120_atanh @2158
+  atanhf=MSVCR120_atanhf @2159
+  atanhl=MSVCR120_atanhl @2160
   atof=MSVCRT_atof @2161
   atoi=MSVCRT_atoi @2162
   atol=ntdll.atol @2163
@@ -826,6 +845,7 @@ EXPORTS
   cbrtl=MSVCR120_cbrtl @2197
   ceil=MSVCRT_ceil @2204
   clearerr=MSVCRT_clearerr @2211
+  clearerr_s=MSVCRT_clearerr_s @2212
   clock=MSVCRT_clock @2213
   copysign=MSVCRT__copysign @2223
   copysignf=MSVCRT__copysignf @2224
@@ -834,6 +854,9 @@ EXPORTS
   cosh=MSVCRT_cosh @2227
   div=MSVCRT_div @2252
   erf=MSVCR120_erf @2253
+  erfc=MSVCR120_erfc @2254
+  erfcf=MSVCR120_erfcf @2255
+  erfcl=MSVCR120_erfcl @2256
   erff=MSVCR120_erff @2257
   erfl=MSVCR120_erfl @2258
   exit=MSVCRT_exit @2259
@@ -841,6 +864,9 @@ EXPORTS
   exp2=MSVCR120_exp2 @2261
   exp2f=MSVCR120_exp2f @2262
   exp2l=MSVCR120_exp2l @2263
+  expm1=MSVCR120_expm1 @2264
+  expm1f=MSVCR120_expm1f @2265
+  expm1l=MSVCR120_expm1l @2266
   fabs=MSVCRT_fabs @2267
   fclose=MSVCRT_fclose @2268
   fegetenv=MSVCRT_fegetenv @2273
@@ -932,6 +958,9 @@ EXPORTS
   localeconv=MSVCRT_localeconv @2372
   log=MSVCRT_log @2373
   log10=MSVCRT_log10 @2374
+  log1p=MSVCR120_log1p @2375
+  log1pf=MSVCR120_log1pf @2376
+  log1pl=MSVCR120_log1pl @2377
   log2=MSVCR120_log2 @2378
   log2f=MSVCR120_log2f @2379
   log2l=MSVCR120_log2l @2380
@@ -1014,7 +1043,7 @@ EXPORTS
   strchr=MSVCRT_strchr @2472
   strcmp=MSVCRT_strcmp @2473
   strcoll=MSVCRT_strcoll @2474
-  strcpy=ntdll.strcpy @2475
+  strcpy=MSVCRT_strcpy @2475
   strcpy_s=MSVCRT_strcpy_s @2476
   strcspn=ntdll.strcspn @2477
   strerror=MSVCRT_strerror @2478

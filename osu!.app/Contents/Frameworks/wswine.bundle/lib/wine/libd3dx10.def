@@ -22,6 +22,7 @@ EXPORTS
   D3DX10FilterTexture@12 @50
   D3DX10GetFeatureLevel1@8 @51
   D3DX10GetImageInfoFromMemory@20 @54
+  D3DX10PreprocessShaderFromMemory@36 @60
   D3DX10UnsetAllDeviceObjects@4 @67
   D3DXBoxBoundProbe@16=d3dx9_36.D3DXBoxBoundProbe @68
   D3DXColorAdjustContrast@12=d3dx9_36.D3DXColorAdjustContrast @69

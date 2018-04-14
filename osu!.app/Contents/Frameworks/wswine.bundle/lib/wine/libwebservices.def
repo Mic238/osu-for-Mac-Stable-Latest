@@ -3,6 +3,7 @@
 LIBRARY webservices.dll
 
 EXPORTS
+  WsAbortChannel@8 @3
   WsAbortServiceProxy@8 @6
   WsAcceptChannel@16 @7
   WsAddCustomHeader@28 @8
@@ -95,6 +96,7 @@ EXPORTS
   WsResetMessage@8 @140
   WsResetServiceProxy@8 @143
   WsSendMessage@32 @146
+  WsSendReplyMessage@36 @147
   WsSetChannelProperty@20 @148
   WsSetErrorProperty@16 @149
   WsSetHeader@28 @152

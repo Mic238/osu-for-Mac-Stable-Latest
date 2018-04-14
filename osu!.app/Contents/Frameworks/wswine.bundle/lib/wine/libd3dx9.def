@@ -110,6 +110,7 @@ EXPORTS
   D3DXFloat16To32Array@12 @134
   D3DXFloat32To16Array@12 @135
   D3DXFrameDestroy@8 @138
+  D3DXFrameFind@8 @139
   D3DXFresnelTerm@8 @142
   D3DXGetDeclLength@4 @150
   D3DXGetDeclVertexSize@8 @151

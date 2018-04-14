@@ -325,6 +325,7 @@ EXPORTS
   _ismbcgraph @342
   _ismbchira @343
   _ismbckata @344
+  _ismbcl0 @345
   _ismbclegal @348
   _ismbclower @349
   _ismbcprint @350
@@ -410,7 +411,7 @@ EXPORTS
   _mbstrlen @432
   _mbsupr @433
   _memccpy=ntdll._memccpy @434
-  _memicmp=ntdll._memicmp @435
+  _memicmp=MSVCRT__memicmp @435
   _mkdir=MSVCRT__mkdir @436
   _mktemp=MSVCRT__mktemp @437
   _mktime64=MSVCRT__mktime64 @438
@@ -745,7 +746,7 @@ EXPORTS
   strchr=MSVCRT_strchr @771
   strcmp=MSVCRT_strcmp @772
   strcoll=MSVCRT_strcoll @773
-  strcpy=ntdll.strcpy @774
+  strcpy=MSVCRT_strcpy @774
   strcspn=ntdll.strcspn @775
   strerror=MSVCRT_strerror @776
   strftime=MSVCRT_strftime @777

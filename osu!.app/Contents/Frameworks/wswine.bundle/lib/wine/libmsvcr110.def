@@ -512,6 +512,7 @@ EXPORTS
   _get_output_format=MSVCRT__get_output_format @719
   _get_pgmptr @720
   _get_printf_count_output=MSVCRT__get_printf_count_output @721
+  _get_purecall_handler @722
   _get_terminate=MSVCRT__get_terminate @723
   _get_timezone @724
   _get_tzname=MSVCRT__get_tzname @725
@@ -581,6 +582,7 @@ EXPORTS
   _ismbcgraph @818
   _ismbchira @820
   _ismbckata @822
+  _ismbcl0 @824
   _ismbclegal @830
   _ismbcpunct @836
   _ismbcspace @838
@@ -646,6 +648,9 @@ EXPORTS
   _mbbtombc @914
   _mbbtype @916
   _mbccpy @918
+  _mbccpy_l @919
+  _mbccpy_s @920
+  _mbccpy_s_l @921
   _mbcjistojms @922
   _mbcjmstojis @924
   _mbclen @926
@@ -671,6 +676,7 @@ EXPORTS
   _mbsicoll_l @959
   _mbsinc @960
   _mbslen @962
+  _mbslen_l @963
   _mbslwr @964
   _mbslwr_s @966
   _mbsnbcat @968
@@ -693,6 +699,8 @@ EXPORTS
   _mbsnextc @1004
   _mbsnicmp @1006
   _mbsninc @1010
+  _mbsnlen @1012
+  _mbsnlen_l @1013
   _mbsnset @1014
   _mbspbrk @1018
   _mbsrchr @1020
@@ -713,7 +721,8 @@ EXPORTS
   _mbsupr_s @1046
   _mbtowc_l=MSVCRT_mbtowc_l @1048
   _memccpy=ntdll._memccpy @1049
-  _memicmp=ntdll._memicmp @1050
+  _memicmp=MSVCRT__memicmp @1050
+  _memicmp_l=MSVCRT__memicmp_l @1051
   _mkdir=MSVCRT__mkdir @1052
   _mkgmtime32=MSVCRT__mkgmtime32 @1053
   _mkgmtime64=MSVCRT__mkgmtime64 @1054
@@ -901,7 +910,14 @@ EXPORTS
   _utime64 @1261
   _vcprintf @1262
   _vcwprintf @1268
+  _vfprintf_l=MSVCRT__vfprintf_l @1274
+  _vfprintf_p=MSVCRT__vfprintf_p @1275
+  _vfprintf_p_l=MSVCRT__vfprintf_p_l @1276
+  _vfprintf_s_l=MSVCRT__vfprintf_s_l @1277
   _vfwprintf_l=MSVCRT__vfwprintf_l @1278
+  _vfwprintf_p=MSVCRT__vfwprintf_p @1279
+  _vfwprintf_p_l=MSVCRT__vfwprintf_p_l @1280
+  _vfwprintf_s_l=MSVCRT__vfwprintf_s_l @1281
   _vscprintf=MSVCRT__vscprintf @1286
   _vscprintf_p=MSVCRT__vscprintf_p @1288
   _vscprintf_p_l=MSVCRT__vscprintf_p_l @1289
@@ -1086,6 +1102,7 @@ EXPORTS
   calloc=MSVCRT_calloc @1479
   ceil=MSVCRT_ceil @1480
   clearerr=MSVCRT_clearerr @1481
+  clearerr_s=MSVCRT_clearerr_s @1482
   clock=MSVCRT_clock @1483
   cos=MSVCRT_cos @1484
   cosh=MSVCRT_cosh @1485
@@ -1224,7 +1241,7 @@ EXPORTS
   strchr=MSVCRT_strchr @1619
   strcmp=MSVCRT_strcmp @1620
   strcoll=MSVCRT_strcoll @1621
-  strcpy=ntdll.strcpy @1622
+  strcpy=MSVCRT_strcpy @1622
   strcpy_s=MSVCRT_strcpy_s @1623
   strcspn=ntdll.strcspn @1624
   strerror=MSVCRT_strerror @1625

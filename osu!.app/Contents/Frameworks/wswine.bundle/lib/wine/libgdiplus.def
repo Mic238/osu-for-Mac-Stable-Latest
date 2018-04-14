@@ -607,5 +607,6 @@ EXPORTS
   GdipBitmapGetHistogramSize@8 @622
   GdipBitmapConvertFormat@24 @623
   GdipImageSetAbort@8 @624
+  GdipGraphicsSetAbort@8 @625
   GdipConvertToEmfPlus@24 @627
   GdipConvertToEmfPlusToFile@28 @628

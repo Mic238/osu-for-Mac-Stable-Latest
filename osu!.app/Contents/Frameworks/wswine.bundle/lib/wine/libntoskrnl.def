@@ -62,6 +62,7 @@ EXPORTS
   IoCreateDevice@28 @341
   IoCreateDriver@8 @343
   IoCreateFile@56 @344
+  IoCreateNotificationEvent@8 @346
   IoCreateSymbolicLink@8 @350
   IoCreateSynchronizationEvent@8 @351
   IoCsqInitialize@28 @353
@@ -336,6 +337,7 @@ EXPORTS
   RtlIpv4AddressToStringExW@16=ntdll.RtlIpv4AddressToStringExW @1077
   RtlIpv4AddressToStringW@8=ntdll.RtlIpv4AddressToStringW @1078
   RtlIpv4StringToAddressExW@16=ntdll.RtlIpv4StringToAddressExW @1081
+  RtlIpv4StringToAddressW@16=ntdll.RtlIpv4StringToAddressW @1082
   RtlIsNameLegalDOS8Dot3@12=ntdll.RtlIsNameLegalDOS8Dot3 @1093
   RtlLargeIntegerAdd@16=ntdll.RtlLargeIntegerAdd @1096
   RtlLargeIntegerArithmeticShift@12=ntdll.RtlLargeIntegerArithmeticShift @1097

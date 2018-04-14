@@ -523,6 +523,7 @@ EXPORTS
   _get_output_format=MSVCRT__get_output_format @735
   _get_pgmptr @736
   _get_printf_count_output=MSVCRT__get_printf_count_output @737
+  _get_purecall_handler @738
   _get_terminate=MSVCRT__get_terminate @739
   _get_timezone @740
   _get_tzname=MSVCRT__get_tzname @741
@@ -593,6 +594,7 @@ EXPORTS
   _ismbcgraph @839
   _ismbchira @841
   _ismbckata @843
+  _ismbcl0 @845
   _ismbclegal @851
   _ismbcprint @855
   _ismbcpunct @857
@@ -664,6 +666,9 @@ EXPORTS
   _mbbtombc @940
   _mbbtype @942
   _mbccpy @944
+  _mbccpy_l @945
+  _mbccpy_s @946
+  _mbccpy_s_l @947
   _mbcjistojms @948
   _mbcjmstojis @950
   _mbclen @952
@@ -689,6 +694,7 @@ EXPORTS
   _mbsicoll_l @985
   _mbsinc @986
   _mbslen @988
+  _mbslen_l @989
   _mbslwr @990
   _mbslwr_s @992
   _mbsnbcat @994
@@ -711,6 +717,8 @@ EXPORTS
   _mbsnextc @1030
   _mbsnicmp @1032
   _mbsninc @1036
+  _mbsnlen @1038
+  _mbsnlen_l @1039
   _mbsnset @1040
   _mbspbrk @1044
   _mbsrchr @1046
@@ -731,7 +739,8 @@ EXPORTS
   _mbsupr_s @1072
   _mbtowc_l=MSVCRT_mbtowc_l @1074
   _memccpy=ntdll._memccpy @1075
-  _memicmp=ntdll._memicmp @1076
+  _memicmp=MSVCRT__memicmp @1076
+  _memicmp_l=MSVCRT__memicmp_l @1077
   _mkdir=MSVCRT__mkdir @1078
   _mkgmtime32=MSVCRT__mkgmtime32 @1079
   _mkgmtime64=MSVCRT__mkgmtime64 @1080
@@ -923,7 +932,14 @@ EXPORTS
   _vacopy=MSVCR120__vacopy @1294
   _vcprintf @1295
   _vcwprintf @1301
+  _vfprintf_l=MSVCRT__vfprintf_l @1307
+  _vfprintf_p=MSVCRT__vfprintf_p @1308
+  _vfprintf_p_l=MSVCRT__vfprintf_p_l @1309
+  _vfprintf_s_l=MSVCRT__vfprintf_s_l @1310
   _vfwprintf_l=MSVCRT__vfwprintf_l @1311
+  _vfwprintf_p=MSVCRT__vfwprintf_p @1312
+  _vfwprintf_p_l=MSVCRT__vfwprintf_p_l @1313
+  _vfwprintf_s_l=MSVCRT__vfwprintf_s_l @1314
   _vscprintf=MSVCRT__vscprintf @1319
   _vscprintf_p=MSVCRT__vscprintf_p @1321
   _vscprintf_p_l=MSVCRT__vscprintf_p_l @1322
@@ -1098,6 +1114,9 @@ EXPORTS
   abort=MSVCRT_abort @1505
   abs=MSVCRT_abs @1506
   acos=MSVCRT_acos @1507
+  acosh=MSVCR120_acosh @1508
+  acoshf=MSVCR120_acoshf @1509
+  acoshl=MSVCR120_acoshl @1510
   asctime=MSVCRT_asctime @1511
   asctime_s=MSVCRT_asctime_s @1512
   asin=MSVCRT_asin @1513
@@ -1106,6 +1125,9 @@ EXPORTS
   asinhl=MSVCR120_asinhl @1516
   atan=MSVCRT_atan @1517
   atan2=MSVCRT_atan2 @1518
+  atanh=MSVCR120_atanh @1519
+  atanhf=MSVCR120_atanhf @1520
+  atanhl=MSVCR120_atanhl @1521
   atexit=MSVCRT_atexit @1522 PRIVATE
   atof=MSVCRT_atof @1523
   atoi=MSVCRT_atoi @1524
@@ -1120,6 +1142,7 @@ EXPORTS
   cbrtl=MSVCR120_cbrtl @1557
   ceil=MSVCRT_ceil @1564
   clearerr=MSVCRT_clearerr @1571
+  clearerr_s=MSVCRT_clearerr_s @1572
   clock=MSVCRT_clock @1573
   copysign=MSVCRT__copysign @1583
   copysignf=MSVCRT__copysignf @1584
@@ -1128,6 +1151,9 @@ EXPORTS
   cosh=MSVCRT_cosh @1587
   div=MSVCRT_div @1612
   erf=MSVCR120_erf @1613
+  erfc=MSVCR120_erfc @1614
+  erfcf=MSVCR120_erfcf @1615
+  erfcl=MSVCR120_erfcl @1616
   erff=MSVCR120_erff @1617
   erfl=MSVCR120_erfl @1618
   exit=MSVCRT_exit @1619
@@ -1135,6 +1161,9 @@ EXPORTS
   exp2=MSVCR120_exp2 @1621
   exp2f=MSVCR120_exp2f @1622
   exp2l=MSVCR120_exp2l @1623
+  expm1=MSVCR120_expm1 @1624
+  expm1f=MSVCR120_expm1f @1625
+  expm1l=MSVCR120_expm1l @1626
   fabs=MSVCRT_fabs @1627
   fclose=MSVCRT_fclose @1628
   fegetenv=MSVCRT_fegetenv @1633
@@ -1233,6 +1262,9 @@ EXPORTS
   localeconv=MSVCRT_localeconv @1741
   log=MSVCRT_log @1742
   log10=MSVCRT_log10 @1743
+  log1p=MSVCR120_log1p @1744
+  log1pf=MSVCR120_log1pf @1745
+  log1pl=MSVCR120_log1pl @1746
   log2=MSVCR120_log2 @1747
   log2f=MSVCR120_log2f @1748
   log2l=MSVCR120_log2l @1749
@@ -1321,7 +1353,7 @@ EXPORTS
   strchr=MSVCRT_strchr @1844
   strcmp=MSVCRT_strcmp @1845
   strcoll=MSVCRT_strcoll @1846
-  strcpy=ntdll.strcpy @1847
+  strcpy=MSVCRT_strcpy @1847
   strcpy_s=MSVCRT_strcpy_s @1848
   strcspn=ntdll.strcspn @1849
   strerror=MSVCRT_strerror @1850
@@ -1374,7 +1406,9 @@ EXPORTS
   vprintf_s=MSVCRT_vprintf_s @1908
   vsprintf=MSVCRT_vsprintf @1911
   vsprintf_s=MSVCRT_vsprintf_s @1912
+  vsscanf=MSVCRT_vsscanf @1913
   vswprintf_s=MSVCRT_vswprintf_s @1915
+  vswscanf=MSVCRT_vswscanf @1916
   vwprintf=MSVCRT_vwprintf @1918
   vwprintf_s=MSVCRT_vwprintf_s @1919
   wcrtomb=MSVCRT_wcrtomb @1922
