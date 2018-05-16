@@ -1,7 +1,7 @@
 # osu! for Mac Stable (Latest)
 
 ### Step to Install:
-1. Download zip from this page, it should be sitting in Download folder, move the game to /Application if you're newly install. DON'T MOVE/REPLACE THE GAME TO /Application IMMEDIATELY IF YOU'RE UPDATING FROM OLD CLIENT!!
+1. Download zip (196M) from this page, it should be sitting in Download folder, move the game to /Application if you're newly install. DON'T MOVE/REPLACE THE GAME TO /Application IMMEDIATELY IF YOU'RE UPDATING FROM OLD CLIENT!!
 2. Open the app for the first time.
    If prompted the app is from unidentify developer, go to System Pref - Security - click Open Anyway and try again. 
    (Hint: opening the app with right click on app and click open instead of double clicking it would bypass this limit)
