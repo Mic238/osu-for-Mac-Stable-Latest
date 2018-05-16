@@ -2,10 +2,10 @@
 
 ### Step to Install:
 1. Download zip (196M) from this page, it should be sitting in Download folder, move the game to /Application if you're newly install. DON'T MOVE/REPLACE THE GAME TO /Application IMMEDIATELY IF YOU'RE UPDATING FROM OLD CLIENT!!
-2. Open the app for the first time.
-   If prompted the app is from unidentify developer, go to System Pref - Security - click Open Anyway and try again. 
-   (Hint: opening the app with right click on app and click open instead of double clicking it would bypass this limit)
+2. Open the app by right click and select open.
+   An error of no runtime can be ignored.
    If prompted Gecko package is not installed, click cancel.
+   When osu! installer appear, change the install location before countdown and select drive_c/Program Files/osu!
    osu! will take a while to download and install itself. The game will start automatically when it finishes.
 
 ---------------------------
@@ -37,9 +37,6 @@ To move the beatmaps faster, open terminal and type this command follow by retur
 Restart terminal and from now on, you can simply type "osu" in the terminal to move all newly download beatmaps from download folder to game beatmap folder, don't forget to fn+f5 to refresh the game list
 
 ---------------------------
-### Updated Default Install Location:
-On the latest testing, the default install location for osu! was changed to C:/Users/[User]/Local Settings, which would result in infinity installation. If that's the case for you, please manually change it to drive_c/Program Files/osu!, in order to get everything works.
-
----------------------------
 ### MacOS Security Update 2018-001
 This package is not compactible with 2018-001 update install (unless you build the wine package yourself).
+However, git clone would work properly if you know how.
