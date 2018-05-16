@@ -4,6 +4,7 @@
 1. Download zip from this page (188.6M), it should be sitting in Download folder, move the game to /Application if you're newly install. DON'T MOVE/REPLACE THE GAME TO /Application IMMEDIATELY IF YOU'RE UPDATING FROM OLD CLIENT!!
 2. Open the app for the first time.
    If prompted the app is from unidentify developer, go to System Pref - Security - click Open Anyway and try again. 
+   (Hint: opening the app with right click on app and click open instead of double clicking it would bypass this limit)
    If prompted Gecko package is not installed, click cancel.
    osu! will take a while to download and install itself. The game will start automatically when it finishes.
 
@@ -22,7 +23,7 @@
 	1. Folders: Data, Songs, Skins
 	2. Files: collection.db, presence.db, scores.db, osu!.db, osu!.cfg, osu!.YourUsername.cfg
 4. Go to setting - full screen mode - turn it off if it's on (solid circle).
-5. Play a few games, if there are no major bugs and you're happy with it, you can move the game to /Application and replace the old client from now. If you want to stick with the old one, trush the new client if you like.
+5. Play a few games, if there are no major bugs and you're happy with it, you can move the game to /Application and replace the old client from now. If you want to stick with the old one, trash the new client if you like.
 
 ---------------------------
 ### Testing Environment:
@@ -42,3 +43,8 @@ As osu! client cannot download discord-rpc.dll automatically, which would result
 ---------------------------
 ### Updated Default Install Location:
 On the latest testing, the default install location for osu! was changed to C:/Users/[User]/Local Settings, which would result in infinity installation. If that's the case for you, please manually change it to drive_c/Program Files/osu!, in order to get everything works.
+
+---------------------------
+### MacOS High Sierra Security Update 2018-001
+This package does not open correctly if you have 2018-001 update installed.
+Existing osu! would not be affected.
