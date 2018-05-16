@@ -40,3 +40,6 @@ Restart terminal and from now on, you can simply type "osu" in the terminal to m
 ### Updated Default Install Location:
 On the latest testing, the default install location for osu! was changed to C:/Users/[User]/Local Settings, which would result in infinity installation. If that's the case for you, please manually change it to drive_c/Program Files/osu!, in order to get everything works.
 
+---------------------------
+### MacOS Security Update 2018-001
+This package is not compactible with 2018-001 update install (unless you build the wine package yourself).

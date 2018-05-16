@@ -1,2 +1,0 @@
-1: Microsoft .NET Framework 4 Extended 2: {0A0CADCF-78DA-33C4-A350-CD51849B9702} 
-1: Microsoft .NET Framework 4 Extended 2: {0A0CADCF-78DA-33C4-A350-CD51849B9702} 3: 1 
