@@ -1,0 +1,82 @@
+********************************************************************************
+**** Starting ASP.NET Setup at: 2018-05-16 18:55:16
+**** Registering ASP.NET isapi: C:\windows\Microsoft.NET\Framework\v4.0.30319\aspnet_isapi.dll
+**** Internal flags: 0x00000404
+********************************************************************************
+
+2018-05-16 18:55:16	Starting	Stopping service: aspnet_state
+2018-05-16 18:55:16		Starting	Connecting to Service Manager
+2018-05-16 18:55:16		Success 	Connecting to Service Manager
+2018-05-16 18:55:16		Starting	Opening Service handle
+2018-05-16 18:55:16		Success 	Opening Service handle
+2018-05-16 18:55:16	Success 	Stopping service: aspnet_state
+2018-05-16 18:55:16	Starting	Querying status of a service: iisadmin
+2018-05-16 18:55:16		Starting	Connecting to Service Manager
+2018-05-16 18:55:16		Success 	Connecting to Service Manager
+2018-05-16 18:55:16		Starting	Opening Service handle
+2018-05-16 18:55:16		Success 	Opening Service handle
+2018-05-16 18:55:16	Success 	Querying status of a service: iisadmin
+2018-05-16 18:55:16	Starting	Check the status of IIS
+2018-05-16 18:55:16	Success 	Check the status of IIS
+2018-05-16 18:55:16	Starting	Querying status of a service: w3svc
+2018-05-16 18:55:16		Starting	Connecting to Service Manager
+2018-05-16 18:55:16		Success 	Connecting to Service Manager
+2018-05-16 18:55:16		Starting	Opening Service handle
+2018-05-16 18:55:16		Success 	Opening Service handle
+2018-05-16 18:55:16	Success 	Querying status of a service: w3svc
+2018-05-16 18:55:16	Starting	Determining if current ASP.NET isapi has the highest version
+2018-05-16 18:55:16	Success 	Determining if current ASP.NET isapi has the highest version
+2018-05-16 18:55:16	Starting	Pre Registration cleanup
+2018-05-16 18:55:16		Starting	Cleaning up registry
+2018-05-16 18:55:16		Success 	Cleaning up registry
+2018-05-16 18:55:16		Starting	Uninstalling performance counters
+2018-05-16 18:55:16		Success 	Uninstalling performance counters
+2018-05-16 18:55:16		Starting	Executing inf section: XSP.UninstallPerVer
+2018-05-16 18:55:16		Success 	Executing inf section: 
+2018-05-16 18:55:16		Starting	Executing inf section: AdminService.Uninstall
+2018-05-16 18:55:16		Success 	Executing inf section: 
+2018-05-16 18:55:16	Success 	Pre Registration cleanup
+2018-05-16 18:55:16	Starting	Executing inf section: XSP.InstallPerVer
+2018-05-16 18:55:16	Success 	Executing inf section: 
+2018-05-16 18:55:16	Starting	Installing WMI file:aspnet.mof
+2018-05-16 18:55:16	Success 	Installing WMI file:aspnet.mof
+2018-05-16 18:55:16	Starting	CreateASPNetAccount
+2018-05-16 18:55:16		Starting	Generating password
+2018-05-16 18:55:16		Success 	Generating password
+2018-05-16 18:55:16		Starting	Creating ASPNET account
+2018-05-16 18:55:16		Failure 	Creating ASPNET account: CreateUser failed with HRESULT 800708ad: 'The username could not be found.  '
+2018-05-16 18:55:16	Failure 	CreateASPNetAccount: CreateASPNetAccount failed with HRESULT 800708ad: 'The username could not be found.  '
+2018-05-16 18:55:16	Starting	GrantAccessToMetabase
+2018-05-16 18:55:16	Success 	GrantAccessToMetabase
+2018-05-16 18:55:16	Starting	Setting ACLs on dirs and WMI
+2018-05-16 18:55:16	Success 	Setting ACLs on dirs and WMI
+2018-05-16 18:55:16	Starting	Install all ASP.NET Services
+2018-05-16 18:55:16		Starting	Getting credentials for the service account
+2018-05-16 18:55:16		Success 	Getting credentials for the service account
+2018-05-16 18:55:16		Starting	Connecting to Service Manager
+2018-05-16 18:55:16		Success 	Connecting to Service Manager
+2018-05-16 18:55:16		Starting	aspnet_state
+2018-05-16 18:55:16		Success 	aspnet_state
+2018-05-16 18:55:16		Starting	Reading various service settings for: aspnet_state
+2018-05-16 18:55:16		Success 	Reading various service settings for: aspnet_state
+2018-05-16 18:55:16		Starting	Executing inf section: StateService.Uninstall
+2018-05-16 18:55:16		Success 	Executing inf section: 
+2018-05-16 18:55:17		Starting	Executing inf section: StateService.Install
+2018-05-16 18:55:17		Success 	Executing inf section: 
+2018-05-16 18:55:17		Starting	Locking service database
+2018-05-16 18:55:17		Success 	Locking service database
+2018-05-16 18:55:17		Starting	Opening Service handle
+2018-05-16 18:55:17		Success 	Opening Service handle
+2018-05-16 18:55:17		Starting	Writing back various service settings for: aspnet_state
+2018-05-16 18:55:17		Success 	Writing back various service settings for: aspnet_state
+2018-05-16 18:55:17		Starting	Changing service account and password
+2018-05-16 18:55:17		Success 	Changing service account and password
+2018-05-16 18:55:17	Success 	Install all ASP.NET Services
+2018-05-16 18:55:17	Starting	Executing inf section: MmcAspNetExtCOMComponents.Install
+2018-05-16 18:55:17	Success 	Executing inf section: 
+2018-05-16 18:55:17	Starting	Install the ASP.NET Performance counters
+2018-05-16 18:55:17	Success 	Install the ASP.NET Performance counters
+2018-05-16 18:55:17	Starting	Install common performance counters
+2018-05-16 18:55:17	Success 	Install common performance counters
+2018-05-16 18:55:17	Starting	Starting service: aspnet_state
+2018-05-16 18:55:17	Success 	Starting service: aspnet_state

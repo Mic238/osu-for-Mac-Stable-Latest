@@ -1,0 +1,186 @@
+warning: taskset/cpuset not available on your platform!
+Using winetricks 20180513-next - sha256sum: c5438329b437e02416de6278346b5d0a8cb3d586415d069288fc85a300c9a02e with wine-2.22 and WINEARCH=win32
+Executing w_do_call cjkfonts
+Executing load_cjkfonts 
+Executing w_do_call fakechinese
+Executing load_fakechinese 
+Executing w_do_call wenquanyi
+Executing load_wenquanyi 
+Executing cd /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_wenquanyi
+Executing tar -zxf /Users/Michael/.cache/winetricks/wenquanyi/wqy-microhei-0.2.0-beta.tar.gz
+Executing cp -f /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_wenquanyi/wqy-microhei/wqy-microhei.ttc /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/Fonts/wqy-microhei.ttc
+------------------------------------------------------
+Running /Users/Michael/Applications/Wineskin/osu!.app/Contents/Frameworks/wswine.bundle/bin/wineserver -w. This will hang until all wine processes in prefix=/Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources terminate
+------------------------------------------------------
+Executing wine regedit C:\windows\Temp\_wenquanyi\_register-font.reg
+fixme:heap:RtlSetHeapInformation 0x0 1 0x0 0 stub
+fixme:process:SetProcessDEPPolicy (1): stub
+fixme:heap:RtlSetHeapInformation 0x0 1 0x0 0 stub
+fixme:process:SetProcessShutdownParameters (00000380, 00000000): partial stub.
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_wenquanyi/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_456fda69_34287.reg
+Executing wine regedit C:\windows\Temp\_wenquanyi\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_wenquanyi/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_7467d958_34287.reg
+Executing wine regedit C:\windows\Temp\_fakechinese\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakechinese/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_fa41f08a_34287.reg
+Executing wine regedit C:\windows\Temp\_fakechinese\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakechinese/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_5afd19e2_34287.reg
+Executing wine regedit C:\windows\Temp\_fakechinese\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakechinese/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_c2257a3a_34287.reg
+Executing wine regedit C:\windows\Temp\_fakechinese\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakechinese/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_b667077b_34287.reg
+Executing wine regedit C:\windows\Temp\_fakechinese\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakechinese/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_03c2880a_34287.reg
+Executing wine regedit C:\windows\Temp\_fakechinese\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakechinese/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_25d4356f_34287.reg
+Executing wine regedit C:\windows\Temp\_fakechinese\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakechinese/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_62c4b4f7_34287.reg
+Executing wine regedit C:\windows\Temp\_fakechinese\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakechinese/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_a8595611_34287.reg
+Executing wine regedit C:\windows\Temp\_fakechinese\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakechinese/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_0ed246ea_34287.reg
+Executing wine regedit C:\windows\Temp\_fakechinese\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakechinese/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_0a87dc26_34287.reg
+Executing wine regedit C:\windows\Temp\_fakechinese\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakechinese/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_0762ebb0_34287.reg
+Executing w_do_call fakejapanese
+Executing load_fakejapanese 
+Executing w_do_call takao
+Executing load_takao 
+Executing cp -f /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_takao/takao-fonts-ttf-003.02.01/TakaoExMincho.ttf /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/Fonts/takaoexmincho.ttf
+Executing cp -f /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_takao/takao-fonts-ttf-003.02.01/TakaoPGothic.ttf /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/Fonts/takaopgothic.ttf
+Executing cp -f /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_takao/takao-fonts-ttf-003.02.01/TakaoGothic.ttf /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/Fonts/takaogothic.ttf
+Executing cp -f /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_takao/takao-fonts-ttf-003.02.01/TakaoPMincho.ttf /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/Fonts/takaopmincho.ttf
+Executing cp -f /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_takao/takao-fonts-ttf-003.02.01/TakaoMincho.ttf /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/Fonts/takaomincho.ttf
+Executing cp -f /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_takao/takao-fonts-ttf-003.02.01/TakaoExGothic.ttf /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/Fonts/takaoexgothic.ttf
+------------------------------------------------------
+Running /Users/Michael/Applications/Wineskin/osu!.app/Contents/Frameworks/wswine.bundle/bin/wineserver -w. This will hang until all wine processes in prefix=/Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources terminate
+------------------------------------------------------
+Executing wine regedit C:\windows\Temp\_takao\_register-font.reg
+fixme:heap:RtlSetHeapInformation 0x0 1 0x0 0 stub
+fixme:process:SetProcessDEPPolicy (1): stub
+fixme:heap:RtlSetHeapInformation 0x0 1 0x0 0 stub
+fixme:process:SetProcessShutdownParameters (00000380, 00000000): partial stub.
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_takao/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_bdaf1a3f_34287.reg
+Executing wine regedit C:\windows\Temp\_takao\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_takao/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_fc314bcc_34287.reg
+Executing wine regedit C:\windows\Temp\_takao\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_takao/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_a6109988_34287.reg
+Executing wine regedit C:\windows\Temp\_takao\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_takao/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_f7ec367d_34287.reg
+Executing wine regedit C:\windows\Temp\_takao\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_takao/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_a8dc187f_34287.reg
+Executing wine regedit C:\windows\Temp\_takao\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_takao/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_b607887c_34287.reg
+Executing wine regedit C:\windows\Temp\_takao\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_takao/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_655d7fde_34287.reg
+Executing wine regedit C:\windows\Temp\_takao\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_takao/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_85957413_34287.reg
+Executing wine regedit C:\windows\Temp\_takao\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_takao/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_75a0093e_34287.reg
+Executing wine regedit C:\windows\Temp\_takao\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_takao/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_35e870ef_34287.reg
+Executing wine regedit C:\windows\Temp\_takao\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_takao/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_016e5489_34287.reg
+Executing wine regedit C:\windows\Temp\_takao\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_takao/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_dfae87a2_34287.reg
+Executing wine regedit C:\windows\Temp\_fakejapanese\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakejapanese/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_0108a5a3_34287.reg
+Executing wine regedit C:\windows\Temp\_fakejapanese\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakejapanese/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_13da0f34_34287.reg
+Executing wine regedit C:\windows\Temp\_fakejapanese\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakejapanese/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_0842eb0f_34287.reg
+Executing wine regedit C:\windows\Temp\_fakejapanese\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakejapanese/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_ce2c88b1_34287.reg
+Executing wine regedit C:\windows\Temp\_fakejapanese\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakejapanese/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_60f9f7b1_34287.reg
+Executing w_do_call fakejapanese_vlgothic
+Executing load_fakejapanese_vlgothic 
+Executing w_do_call vlgothic
+Executing load_vlgothic 
+Executing cd /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_vlgothic
+Executing tar -Jxf /Users/Michael/.cache/winetricks/vlgothic/VLGothic-20141206.tar.xz
+Executing cp -f /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_vlgothic/VLGothic/VL-PGothic-Regular.ttf /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/Fonts/vl-pgothic-regular.ttf
+Executing cp -f /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_vlgothic/VLGothic/VL-Gothic-Regular.ttf /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/Fonts/vl-gothic-regular.ttf
+------------------------------------------------------
+Running /Users/Michael/Applications/Wineskin/osu!.app/Contents/Frameworks/wswine.bundle/bin/wineserver -w. This will hang until all wine processes in prefix=/Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources terminate
+------------------------------------------------------
+Executing wine regedit C:\windows\Temp\_vlgothic\_register-font.reg
+fixme:heap:RtlSetHeapInformation 0x0 1 0x0 0 stub
+fixme:process:SetProcessDEPPolicy (1): stub
+fixme:heap:RtlSetHeapInformation 0x0 1 0x0 0 stub
+fixme:process:SetProcessShutdownParameters (00000380, 00000000): partial stub.
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_vlgothic/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_74f137bd_34287.reg
+Executing wine regedit C:\windows\Temp\_vlgothic\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_vlgothic/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_c62563e6_34287.reg
+Executing wine regedit C:\windows\Temp\_vlgothic\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_vlgothic/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_6ae53c21_34287.reg
+Executing wine regedit C:\windows\Temp\_vlgothic\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_vlgothic/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_adcd8fcc_34287.reg
+Executing wine regedit C:\windows\Temp\_fakejapanese_vlgothic\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakejapanese_vlgothic/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_0b93b5ad_34287.reg
+Executing wine regedit C:\windows\Temp\_fakejapanese_vlgothic\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakejapanese_vlgothic/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_f4c0bf80_34287.reg
+Executing wine regedit C:\windows\Temp\_fakejapanese_vlgothic\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakejapanese_vlgothic/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_114a7df7_34287.reg
+Executing w_do_call fakekorean
+Executing load_fakekorean 
+Executing w_do_call baekmuk
+Executing load_baekmuk 
+Executing cd /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_baekmuk
+Executing tar -zxf /Users/Michael/.cache/winetricks/baekmuk/fonts-baekmuk_2.2.orig.tar.gz baekmuk-ttf-2.2/ttf
+Executing cp -f baekmuk-ttf-2.2/ttf//batang.ttf /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/Fonts/batang.ttf
+Executing cp -f baekmuk-ttf-2.2/ttf//gulim.ttf /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/Fonts/gulim.ttf
+Executing cp -f baekmuk-ttf-2.2/ttf//dotum.ttf /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/Fonts/dotum.ttf
+Executing cp -f baekmuk-ttf-2.2/ttf//hline.ttf /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/Fonts/hline.ttf
+------------------------------------------------------
+Running /Users/Michael/Applications/Wineskin/osu!.app/Contents/Frameworks/wswine.bundle/bin/wineserver -w. This will hang until all wine processes in prefix=/Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources terminate
+------------------------------------------------------
+Executing wine regedit C:\windows\Temp\_baekmuk\_register-font.reg
+fixme:heap:RtlSetHeapInformation 0x0 1 0x0 0 stub
+fixme:process:SetProcessDEPPolicy (1): stub
+fixme:heap:RtlSetHeapInformation 0x0 1 0x0 0 stub
+fixme:process:SetProcessShutdownParameters (00000380, 00000000): partial stub.
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_baekmuk/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_2672114c_34287.reg
+Executing wine regedit C:\windows\Temp\_baekmuk\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_baekmuk/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_860f1ee7_34287.reg
+Executing wine regedit C:\windows\Temp\_baekmuk\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_baekmuk/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_f9e2d49c_34287.reg
+Executing wine regedit C:\windows\Temp\_baekmuk\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_baekmuk/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_2e5ebc5a_34287.reg
+Executing wine regedit C:\windows\Temp\_baekmuk\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_baekmuk/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_b16881ef_34287.reg
+Executing wine regedit C:\windows\Temp\_baekmuk\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_baekmuk/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_1b631ed2_34287.reg
+Executing wine regedit C:\windows\Temp\_baekmuk\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_baekmuk/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_12f33d67_34287.reg
+Executing wine regedit C:\windows\Temp\_baekmuk\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_baekmuk/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_d1ac761a_34287.reg
+Executing wine regedit C:\windows\Temp\_fakekorean\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakekorean/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_a17eaea9_34287.reg
+Executing wine regedit C:\windows\Temp\_fakekorean\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakekorean/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_ed58786d_34287.reg
+Executing wine regedit C:\windows\Temp\_fakekorean\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakekorean/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_6a5216d5_34287.reg
+Executing wine regedit C:\windows\Temp\_fakekorean\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakekorean/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_b737ff84_34287.reg
+Executing wine regedit C:\windows\Temp\_fakekorean\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakekorean/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_974c5765_34287.reg
+Executing wine regedit C:\windows\Temp\_fakekorean\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_fakekorean/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_969b6d6a_34287.reg
+Executing w_do_call unifont
+Executing load_unifont 
+Executing mv -f /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_unifont/unifont-5.1.20080907.ttf /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_unifont/unifont.ttf
+Executing cp -f /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_unifont/unifont.ttf /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/Fonts/unifont.ttf
+------------------------------------------------------
+Running /Users/Michael/Applications/Wineskin/osu!.app/Contents/Frameworks/wswine.bundle/bin/wineserver -w. This will hang until all wine processes in prefix=/Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources terminate
+------------------------------------------------------
+Executing wine regedit C:\windows\Temp\_unifont\_register-font.reg
+fixme:heap:RtlSetHeapInformation 0x0 1 0x0 0 stub
+fixme:process:SetProcessDEPPolicy (1): stub
+fixme:heap:RtlSetHeapInformation 0x0 1 0x0 0 stub
+fixme:process:SetProcessShutdownParameters (00000380, 00000000): partial stub.
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_unifont/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_88a6da48_34287.reg
+Executing wine regedit C:\windows\Temp\_unifont\_register-font.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_unifont/_register-font.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_a97c7e83_34287.reg
+Executing wine regedit C:\windows\Temp\_unifont\_register-font-replacements.reg
+Executing cp /Users/Michael/Applications/Wineskin/osu!.app/Contents/Resources/dosdevices/c:/windows/temp/_unifont/_register-font-replacements.reg /var/folders/01/f12phqns2wn7mclj7mbc_0nm0000gn/T//winetricks.rIrZcAzZ/_reg_95043883_34287.reg

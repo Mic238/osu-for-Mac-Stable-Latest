@@ -46,6 +46,13 @@
 			<key>WS-Name</key>
 			<string>autohotkey</string>
 		</dict>
+		<key>busybox</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>BusyBox FRP-2121</string>
+			<key>WS-Name</key>
+			<string>busybox</string>
+		</dict>
 		<key>cmake</key>
 		<dict>
 			<key>WS-Description</key>
@@ -221,6 +228,13 @@
 			<key>WS-Name</key>
 			<string>office2007pro</string>
 		</dict>
+		<key>office2013pro</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>Microsoft Office 2013 Professional</string>
+			<key>WS-Name</key>
+			<string>office2013pro</string>
+		</dict>
 		<key>ollydbg110</key>
 		<dict>
 			<key>WS-Description</key>
@@ -248,13 +262,6 @@
 			<string>Open Watcom C/C++ compiler (can compile win16 code!)</string>
 			<key>WS-Name</key>
 			<string>openwatcom</string>
-		</dict>
-		<key>picasa39</key>
-		<dict>
-			<key>WS-Description</key>
-			<string>Picasa 3.9</string>
-			<key>WS-Name</key>
-			<string>picasa39</string>
 		</dict>
 		<key>protectionid</key>
 		<dict>
@@ -461,14 +468,14 @@
 		<key>adobeair</key>
 		<dict>
 			<key>WS-Description</key>
-			<string>Adobe AIR 20.x</string>
+			<string>Adobe AIR</string>
 			<key>WS-Name</key>
 			<string>adobeair</string>
 		</dict>
 		<key>allcodecs</key>
 		<dict>
 			<key>WS-Description</key>
-			<string>All codecs (dirac, ffdshow, icodecs, l3codecx, xvid) except wmp</string>
+			<string>All codecs (dirac, ffdshow, icodecs, cinepak, l3codecx, xvid) except wmp</string>
 			<key>WS-Name</key>
 			<string>allcodecs</string>
 		</dict>
@@ -513,6 +520,13 @@
 			<string>Microsoft cabinet.dll</string>
 			<key>WS-Name</key>
 			<string>cabinet</string>
+		</dict>
+		<key>cinepak</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>Cinepak Codec</string>
+			<key>WS-Name</key>
+			<string>cinepak</string>
 		</dict>
 		<key>cmd</key>
 		<dict>
@@ -801,12 +815,68 @@
 			<key>WS-Name</key>
 			<string>directx9</string>
 		</dict>
+		<key>dmband</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>MS dmband.dll from DirectX user redistributable</string>
+			<key>WS-Name</key>
+			<string>dmband</string>
+		</dict>
+		<key>dmcompos</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>MS dmcompos.dll from DirectX user redistributable</string>
+			<key>WS-Name</key>
+			<string>dmcompos</string>
+		</dict>
+		<key>dmime</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>MS dmime.dll from DirectX user redistributable</string>
+			<key>WS-Name</key>
+			<string>dmime</string>
+		</dict>
+		<key>dmloader</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>MS dmloader.dll from DirectX user redistributable</string>
+			<key>WS-Name</key>
+			<string>dmloader</string>
+		</dict>
+		<key>dmscript</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>MS dmscript.dll from DirectX user redistributable</string>
+			<key>WS-Name</key>
+			<string>dmscript</string>
+		</dict>
+		<key>dmstyle</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>MS dmstyle.dll from DirectX user redistributable</string>
+			<key>WS-Name</key>
+			<string>dmstyle</string>
+		</dict>
 		<key>dmsynth</key>
 		<dict>
 			<key>WS-Description</key>
-			<string>MS midi synthesizer from DirectX user redistributable</string>
+			<string>MS dmsynth.dll from DirectX user redistributable</string>
 			<key>WS-Name</key>
 			<string>dmsynth</string>
+		</dict>
+		<key>dmusic</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>MS dmusic.dll from DirectX user redistributable</string>
+			<key>WS-Name</key>
+			<string>dmusic</string>
+		</dict>
+		<key>dmusic32</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>MS dmusic32.dll from DirectX user redistributable</string>
+			<key>WS-Name</key>
+			<string>dmusic32</string>
 		</dict>
 		<key>dotnet11</key>
 		<dict>
@@ -948,6 +1018,13 @@
 			<key>WS-Name</key>
 			<string>dsound</string>
 		</dict>
+		<key>dswave</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>MS dswave.dll from DirectX user redistributable</string>
+			<key>WS-Name</key>
+			<string>dswave</string>
+		</dict>
 		<key>dxdiag</key>
 		<dict>
 			<key>WS-Description</key>
@@ -961,6 +1038,13 @@
 			<string>DirectX Diagnostic Library</string>
 			<key>WS-Name</key>
 			<string>dxdiagn</string>
+		</dict>
+		<key>dxdiagn_feb2010</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>DirectX Diagnostic Library (February 2010)</string>
+			<key>WS-Name</key>
+			<string>dxdiagn_feb2010</string>
 		</dict>
 		<key>dxsdk_jun2010</key>
 		<dict>
@@ -1487,6 +1571,13 @@
 			<key>WS-Name</key>
 			<string>vcrun2015</string>
 		</dict>
+		<key>vcrun2017</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>Visual C++ 2017 libraries (concrt140.dll,mfc140.dll,mfc140u.dll,mfcm140.dll,mfcm140u.dll,msvcp140.dll,vcamp140.dll,vccorlib140.dll,vcomp140.dll,vcruntime140.dll)</string>
+			<key>WS-Name</key>
+			<string>vcrun2017</string>
+		</dict>
 		<key>vcrun6</key>
 		<dict>
 			<key>WS-Description</key>
@@ -1507,6 +1598,20 @@
 			<string>MS Visual J# 2.0 SE libraries (requires dotnet20)</string>
 			<key>WS-Name</key>
 			<string>vjrun20</string>
+		</dict>
+		<key>vulkansdk</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>Vulkan SDK 1.0.68 (developers only)</string>
+			<key>WS-Name</key>
+			<string>vulkansdk</string>
+		</dict>
+		<key>webio</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>MS Windows Web I/O</string>
+			<key>WS-Name</key>
+			<string>webio</string>
 		</dict>
 		<key>windowscodecs</key>
 		<dict>
@@ -1623,12 +1728,26 @@
 			<key>WS-Name</key>
 			<string>baekmuk</string>
 		</dict>
+		<key>calibri</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>MS Calibri font</string>
+			<key>WS-Name</key>
+			<string>calibri</string>
+		</dict>
 		<key>cambria</key>
 		<dict>
 			<key>WS-Description</key>
 			<string>MS Cambria font</string>
 			<key>WS-Name</key>
 			<string>cambria</string>
+		</dict>
+		<key>candara</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>MS Candara font</string>
+			<key>WS-Name</key>
+			<string>candara</string>
 		</dict>
 		<key>cjkfonts</key>
 		<dict>
@@ -1650,6 +1769,13 @@
 			<string>MS Constantia font</string>
 			<key>WS-Name</key>
 			<string>constantia</string>
+		</dict>
+		<key>corbel</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>MS Corbel font</string>
+			<key>WS-Name</key>
+			<string>corbel</string>
 		</dict>
 		<key>corefonts</key>
 		<dict>
@@ -1693,6 +1819,13 @@
 			<key>WS-Name</key>
 			<string>fakejapanese_ipamona</string>
 		</dict>
+		<key>fakejapanese_vlgothic</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>Creates aliases for Japanese Meiryo fonts using VLGothic fonts</string>
+			<key>WS-Name</key>
+			<string>fakejapanese_vlgothic</string>
+		</dict>
 		<key>fakekorean</key>
 		<dict>
 			<key>WS-Description</key>
@@ -1710,7 +1843,7 @@
 		<key>liberation</key>
 		<dict>
 			<key>WS-Description</key>
-			<string>Red Hat Liberation fonts (Sans, Serif, Mono)</string>
+			<string>Red Hat Liberation fonts (Mono, Sans, SansNarrow, Serif)</string>
 			<key>WS-Name</key>
 			<string>liberation</string>
 		</dict>
@@ -1721,12 +1854,26 @@
 			<key>WS-Name</key>
 			<string>lucida</string>
 		</dict>
+		<key>meiryo</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>MS Meiryo font</string>
+			<key>WS-Name</key>
+			<string>meiryo</string>
+		</dict>
 		<key>opensymbol</key>
 		<dict>
 			<key>WS-Description</key>
 			<string>OpenSymbol fonts (replacement for Wingdings)</string>
 			<key>WS-Name</key>
 			<string>opensymbol</string>
+		</dict>
+		<key>pptfonts</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>All MS PowerPoint Viewer fonts</string>
+			<key>WS-Name</key>
+			<string>pptfonts</string>
 		</dict>
 		<key>tahoma</key>
 		<dict>
@@ -1755,6 +1902,13 @@
 			<string>Unifont alternative to Arial Unicode MS</string>
 			<key>WS-Name</key>
 			<string>unifont</string>
+		</dict>
+		<key>vlgothic</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>VLGothic Japanese fonts</string>
+			<key>WS-Name</key>
+			<string>vlgothic</string>
 		</dict>
 		<key>wenquanyi</key>
 		<dict>
@@ -2081,20 +2235,6 @@
 			<key>WS-Name</key>
 			<string>gta_vc</string>
 		</dict>
-		<key>hegemony_demo</key>
-		<dict>
-			<key>WS-Description</key>
-			<string>Hegemony: Philip of Macedon Demo</string>
-			<key>WS-Name</key>
-			<string>hegemony_demo</string>
-		</dict>
-		<key>hegemonygold_demo</key>
-		<dict>
-			<key>WS-Description</key>
-			<string>Hegemony Gold</string>
-			<key>WS-Name</key>
-			<string>hegemonygold_demo</string>
-		</dict>
 		<key>hon</key>
 		<dict>
 			<key>WS-Description</key>
@@ -2241,13 +2381,6 @@
 			<string>Pen-Pen Xmas Olympics</string>
 			<key>WS-Name</key>
 			<string>penpenxmas</string>
-		</dict>
-		<key>plantsvszombies</key>
-		<dict>
-			<key>WS-Description</key>
-			<string>Plants vs. Zombies</string>
-			<key>WS-Name</key>
-			<string>plantsvszombies</string>
 		</dict>
 		<key>popfs</key>
 		<dict>
@@ -2490,6 +2623,20 @@
 			<key>WS-Name</key>
 			<string>ao=enabled</string>
 		</dict>
+		<key>autostart_winedbg=disable</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>Prevent winedbg from launching when an unhandled exception occurs</string>
+			<key>WS-Name</key>
+			<string>autostart_winedbg=disable</string>
+		</dict>
+		<key>autostart_winedbg=enable</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>Automatically launch winedbg when an unhandled exception occurs (default)</string>
+			<key>WS-Name</key>
+			<string>autostart_winedbg=enable</string>
+		</dict>
 		<key>bad</key>
 		<dict>
 			<key>WS-Description</key>
@@ -2514,14 +2661,14 @@
 		<key>csmt=off</key>
 		<dict>
 			<key>WS-Description</key>
-			<string>Disable Command Stream Multithreading (default)</string>
+			<string>Disable Command Stream Multithreading</string>
 			<key>WS-Name</key>
 			<string>csmt=off</string>
 		</dict>
 		<key>csmt=on</key>
 		<dict>
 			<key>WS-Description</key>
-			<string>Enable Command Stream Multithreading</string>
+			<string>Enable Command Stream Multithreading (default)</string>
 			<key>WS-Name</key>
 			<string>csmt=on</string>
 		</dict>
@@ -2853,41 +3000,6 @@
 			<string>Sandbox the wineprefix - remove links to $HOME</string>
 			<key>WS-Name</key>
 			<string>sandbox</string>
-		</dict>
-		<key>sound=alsa</key>
-		<dict>
-			<key>WS-Description</key>
-			<string>Set sound driver to ALSA</string>
-			<key>WS-Name</key>
-			<string>sound=alsa</string>
-		</dict>
-		<key>sound=coreaudio</key>
-		<dict>
-			<key>WS-Description</key>
-			<string>Set sound driver to Mac CoreAudio</string>
-			<key>WS-Name</key>
-			<string>sound=coreaudio</string>
-		</dict>
-		<key>sound=disabled</key>
-		<dict>
-			<key>WS-Description</key>
-			<string>Set sound driver to disabled</string>
-			<key>WS-Name</key>
-			<string>sound=disabled</string>
-		</dict>
-		<key>sound=oss</key>
-		<dict>
-			<key>WS-Description</key>
-			<string>Set sound driver to OSS</string>
-			<key>WS-Name</key>
-			<string>sound=oss</string>
-		</dict>
-		<key>sound=pulse</key>
-		<dict>
-			<key>WS-Description</key>
-			<string>Set sound driver to PulseAudio</string>
-			<key>WS-Name</key>
-			<string>sound=pulse</string>
 		</dict>
 		<key>strictdrawordering=disabled</key>
 		<dict>
