@@ -1,29 +1,22 @@
 # osu! for Mac Stable (Latest)
 
 ### Step to Install:
-1. Download zip (196M) from this page, it should be sitting in Download folder, move the game to /Application if you're newly install. DON'T MOVE/REPLACE THE GAME TO /Application IMMEDIATELY IF YOU'RE UPDATING FROM OLD CLIENT!!
-2. Open the app by right click and select open.
-   An error of no runtime can be ignored.
-   If prompted Gecko package is not installed, click cancel.
-   When osu! installer appear, change the install location before countdown and select drive_c/Program Files/osu!
-   osu! will take a while to download and install itself. The game will start automatically when it finishes.
+1. Download zip (196M) from this page, it should be sitting in Download folder.
 
----------------------------
-### Next For New players:
-1. Go to setting - full screen mode - turn it off.
-2. Login, change the settings, download beatmaps, Enjoy!
-3. Move the game to /Application folder if you haven't done so.
-4. Beatmaps folder locates at right click osu!.app - show package content - drive_c - Program Files - osu! - Songs
-
-----------------------------
-### Next For Update players:
-1. Exit the game right after it loads, don't login or touch any settings
-2. For both old client (at /Application/osu!) and new client (at ~/Downloads/osu!), right click - show package content - drive_c - Program Files - osu!
-3. Hold command key and select all the following folders/files in the old client, then drag them to the new client while holding option key. Check apply to all and click replace when prompt. Be very careful of the direction of movement is from old to new (there is no undo if you get the direction wrong, everything will be lost) and it's copying the actual file (indicate by a green plus sign). If a symlink is created accidently (a small arrow at the corner), simply redo this step.
-	1. Folders: Data, Songs, Skins
-	2. Files: collection.db, presence.db, scores.db, osu!.db, osu!.cfg, osu!.[Username].cfg
-4. Go to setting - full screen mode - turn it off if it's on.
-5. Play a few games, if there are no major bugs and you're happy with it, you can move the game to /Application and replace the old client from now. If you want to stick with the old one, trash the new client if you like.
+2. If you are upgrading from the old client, DO NOT move to /Application and replace the old client immediately. There are some migration need to do.
+   1. Open osu! folder for both old and new clients (right click on app - show package content - drive_c - Program Files - osu!)
+   2. Hold command key and select all of the following folders and files from the old client side
+		* Folders: Data, Songs, Skins
+		* Files: collection.db, presence.db, scores.db, osu!.db, osu!.cfg, osu!.[Username].cfg
+   3. Drag them to the new client side while holding option key. Note: If a symlink a created instead of copying the actual file (A symlink can be identified by an arrow at the corner), remove those symlink files and repeat those steps
+	
+3. Open the new client by right click and select open.
+   * An error of no runtime can be ignored.
+   * If prompted Gecko package is not installed, click cancel.
+   * When osu! installer appear, change the install location before countdown and select drive_c/Program Files/osu!
+   * osu! will take a while to download and install itself. The game will start automatically when it finishes.
+4. For the best perfomance, go to setting, set the frame limit to 240fps (Unlimited would not work properly) and turn full screen mode off.
+5. Play a few games. If you're happy with it, move the game to /Application and enjoy!
 
 ---------------------------
 ### Testing Environment:
@@ -31,12 +24,19 @@ Mac Mini (Late 2014) 2.6GHz, 8G Memory, 256G SSD, MacOS High Sierra 10.13.4, Wra
 
 ---------------------------
 ### A Little Bouns for all:
-To move the beatmaps faster, open terminal and type this command follow by return:
-* echo "alias osu='mv ~/Downloads/*.osz /Applications/osu\!.app/drive_c/Program\ Files/osu\!/songs'" >> .bash_profile
 
-Restart terminal and from now on, you can simply type "osu" in the terminal to move all newly download beatmaps from download folder to game beatmap folder, don't forget to fn+f5 to refresh the game list
+To move the beatmaps faster, open the terminal, copy and paste this command followed by return:
+* `echo "alias osu='mv ~/Downloads/*.osz /Applications/osu\!.app/drive_c/Program\ Files/osu\!/songs'" >> .bash_profile`
+
+Restart terminal and from now on, you can simply type "osu" in the terminal to move all beatmaps from download folder to game beatmap folder, don't forget to fn+f5 to refresh the game list.
 
 ---------------------------
-### MacOS Security Update 2018-001
-This package is not compactible with 2018-001 update install (unless you build the wine package yourself).
-However, git clone would work properly if you know how.
+### Known Issues
+1. With 2018-001 update installed, wine package downloaded with browser will not open. However, download with git clone would work properly.
+2. gdiplus is not compactible with cjkfonts, so it's a trade off to get the setting icons and control buttons work and cjkfonts work. If you prefer cjkfonts more than those graphic glitches, you can follow these steps:
+   1. Right click osu! - show package content - open wineskin - click advance.
+   2. Click tools at the top - config Utility on top left, The config windows may take a few seconds to jump out.
+   3. Go to Libries tab at the top - select gdiplus and click edit - then select built in (wine) and save.
+   4. You can revert this setting by the same steps and select native (windows) to revert.
+3. For in-game settings, Shaders would not work, enable Soften Filters will blank the screen, enable Compactible Mode will crash the game. If you accidently turn these settings on, you can go to osu! folder and edit osu!.[Username].cfg with textedit and change the value of BloomSoftening or CompactibilityContext to 0 to fix it.
+4. Some other glitches, osu! Direct from osu website would not work (in-game download works good). Discord-rpc will not work. Double Clicking beatmap files or dragging to game window will not open them (So the only way to import beatmaps is move to the folder manually, or use the command above).
