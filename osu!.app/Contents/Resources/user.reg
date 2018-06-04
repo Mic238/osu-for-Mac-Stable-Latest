@@ -535,8 +535,9 @@ WINE REGISTRY Version 2
 "RelayExclude"="ntdll.RtlEnterCriticalSection;ntdll.RtlTryEnterCriticalSection;ntdll.RtlLeaveCriticalSection;kernel32.48;kernel32.49;kernel32.94;kernel32.95;kernel32.96;kernel32.97;kernel32.98;kernel32.TlsGetValue;kernel32.TlsSetValue;kernel32.FlsGetValue;kernel32.FlsSetValue;kernel32.SetLastError"
 "RelayFromExclude"="winex11.drv;winemac.drv;user32;gdi32;advapi32;kernel32"
 
-[Software\\Wine\\Direct3D] 1526460556
-#time=1d3ecf2c5e023a4
+[Software\\Wine\\Direct3D] 1528075992
+#time=1d3fba400717c1a
+"VideoMemorySize"="1024"
 
 [Software\\Wine\\DllOverrides] 1526461003
 #time=1d3ecf3cff41e94
@@ -714,13 +715,13 @@ WINE REGISTRY Version 2
 "OpenWithIcon"="7765_winebrowser.0"
 "ProgID"="xmlfile"
 
-[Software\\Wine\\Fonts] 1526461071
-#time=1d3ecf3f84f5570
+[Software\\Wine\\Fonts] 1528075999
+#time=1d3fba404df4ae8
 "Codepages"="1252,850"
 "LogPixels"=dword:00000060
 
-[Software\\Wine\\Fonts\\External Fonts] 1526461071
-#time=1d3ecf3f854e9a4
+[Software\\Wine\\Fonts\\External Fonts] 1528075999
+#time=1d3fba404e4e4da
 "@Apple LiSung Light (TrueType)"="Z:\\System\\Library\\Assets\\com_apple_MobileAsset_Font4\\f32353d902bf98577cf10705d5bea3a060a97e8a.asset\\AssetData\\AppleLiSung-Light.ttf"
 "@Apple SD Gothic Neo Regular (TrueType)"="Z:\\System\\Library\\Fonts\\AppleSDGothicNeo.ttc"
 "@Arial Unicode MS (TrueType)"="Z:\\Library\\Fonts\\Arial Unicode.ttf"
@@ -1079,7 +1080,7 @@ WINE REGISTRY Version 2
 "Malayalam Sangam MN Bold (TrueType)"="Z:\\Library\\Fonts\\Malayalam Sangam MN.ttc"
 "Marker Felt Thin (TrueType)"="Z:\\System\\Library\\Fonts\\MarkerFelt.ttc"
 "Marker Felt Wide (TrueType)"="Z:\\System\\Library\\Fonts\\MarkerFelt.ttc"
-"Marlett (TrueType)"="Z:\\Users\\Michael\\Applications\\Wineskin\\osu!.app\\Contents\\Frameworks\\wswine.bundle\\lib\\..\\bin\\..\\share\\wine\\fonts\\marlett.ttf"
+"Marlett (TrueType)"="Z:\\Users\\Michael\\git\\osu-for-Mac-Stable-Latest\\osu!.app\\Contents\\Frameworks\\wswine.bundle\\lib\\..\\bin\\..\\share\\wine\\fonts\\marlett.ttf"
 "Menlo Bold (TrueType)"="Z:\\System\\Library\\Fonts\\Menlo.ttc"
 "Menlo Bold Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Menlo.ttc"
 "Menlo Italic (TrueType)"="Z:\\System\\Library\\Fonts\\Menlo.ttc"
@@ -1221,7 +1222,7 @@ WINE REGISTRY Version 2
 "SukhumvitSet-SemiBold (TrueType)"="Z:\\Library\\Fonts\\SukhumvitSet.ttc"
 "SukhumvitSet-Text (TrueType)"="Z:\\Library\\Fonts\\SukhumvitSet.ttc"
 "SukhumvitSet-Thin (TrueType)"="Z:\\Library\\Fonts\\SukhumvitSet.ttc"
-"Symbol (TrueType)"="Z:\\Users\\Michael\\Applications\\Wineskin\\osu!.app\\Contents\\Frameworks\\wswine.bundle\\lib\\..\\bin\\..\\share\\wine\\fonts\\symbol.ttf"
+"Symbol (TrueType)"="Z:\\Users\\Michael\\git\\osu-for-Mac-Stable-Latest\\osu!.app\\Contents\\Frameworks\\wswine.bundle\\lib\\..\\bin\\..\\share\\wine\\fonts\\symbol.ttf"
 "Tahoma (TrueType)"="Z:\\Library\\Fonts\\Tahoma.ttf"
 "Tahoma Bold (TrueType)"="Z:\\Library\\Fonts\\Tahoma Bold.ttf"
 "Tamil MN (TrueType)"="Z:\\Library\\Fonts\\Tamil MN.ttc"

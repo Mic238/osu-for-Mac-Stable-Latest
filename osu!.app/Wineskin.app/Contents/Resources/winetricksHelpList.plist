@@ -1599,10 +1599,17 @@
 			<key>WS-Name</key>
 			<string>vjrun20</string>
 		</dict>
+		<key>vulkanrt</key>
+		<dict>
+			<key>WS-Description</key>
+			<string>Vulkan Runtime 1.1.73.0</string>
+			<key>WS-Name</key>
+			<string>vulkanrt</string>
+		</dict>
 		<key>vulkansdk</key>
 		<dict>
 			<key>WS-Description</key>
-			<string>Vulkan SDK 1.0.68 (developers only)</string>
+			<string>Vulkan SDK 1.1.73.0 (developers only)</string>
 			<key>WS-Name</key>
 			<string>vulkansdk</string>
 		</dict>
