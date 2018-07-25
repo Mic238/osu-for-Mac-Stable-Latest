@@ -32,11 +32,16 @@ Restart terminal and from now on, you can simply type "osu" in the terminal to m
 
 ---------------------------
 ### Known Issues
-1. With 2018-001 update installed, wine package downloaded with browser will not open. However, download with git clone would work properly.
+1. Direct Download may or may not work on MacOS High Sierra 10.13.4, git clone is an alternative option to download. (If you don't already have xcode or command line tool installed, the terminal would prompt you for auto install.)
+* `git clone https://github.com/Mic238/osu-for-Mac-Stable-Latest`
+This package will refuse to run on MacOS Mojave 10.14 public beta 3 or above (PB1 and PB2 are fine).
+
 2. gdiplus is not compactible with cjkfonts, so it's a trade off to get the setting icons and control buttons work and cjkfonts work. If you prefer cjkfonts more than those graphic glitches, you can follow these steps:
    1. Right click osu! - show package content - open wineskin - click advance.
    2. Click tools at the top - config Utility on top left, The config windows may take a few seconds to jump out.
    3. Go to Libries tab at the top - select gdiplus and click edit - then select built in (wine) and save.
    4. You can revert this setting by the same steps and select native (windows) to revert.
+   
 3. For in-game settings, Shaders would not work, enable Soften Filters will blank the screen, enable Compactible Mode will crash the game. If you accidently turn these settings on, you can go to osu! folder and edit osu!.[Username].cfg with textedit and change the value of BloomSoftening or CompactibilityContext to 0 to fix it.
+
 4. Some other glitches, osu! Direct from osu website would not work (in-game download works good). Discord-rpc will not work. Double Clicking beatmap files or dragging to game window will not open them (So the only way to import beatmaps is move to the folder manually, or use the command above).
