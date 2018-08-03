@@ -35,7 +35,7 @@ Restart terminal and from now on, you can simply type "osu" in the terminal to m
 1. Direct Download may or may not work on MacOS High Sierra 10.13.4, git clone is an alternative option to download. (If you don't already have xcode or command line tool installed, the terminal would prompt you for auto install.)
 * `git clone https://github.com/Mic238/osu-for-Mac-Stable-Latest`
 
-This package will refuse to run on MacOS Mojave 10.14 public beta 3 or above (PB1 and PB2 are fine).
+This package will refuse to run on MacOS Mojave 10.14 public beta 3 (PB1/2/4 are fine).
 
 2. gdiplus is not compactible with cjkfonts, so it's a trade off to get the setting icons and control buttons work and cjkfonts work. If you prefer cjkfonts more than those graphic glitches, you can follow these steps:
    1. Right click osu! - show package content - open wineskin - click advance.
