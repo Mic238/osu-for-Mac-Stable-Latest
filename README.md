@@ -43,9 +43,8 @@ Restart terminal and from now on, you can simply type "osu" in the terminal to m
    
 3. For in-game settings, Shaders would not work, enable Soften Filters will blank the screen, enable Compactible Mode will crash the game. If you accidently turn these settings on, you can go to osu! folder and edit osu!.[Username].cfg with textedit and change the value of BloomSoftening or CompactibilityContext to 0 to fix it.
 
-4. Some other glitches, osu! Direct from osu website would not work (in-game download works good). Discord-rpc will not work. Double clicking beatmap files or dragging to game window will not open them (So the only way to import beatmaps is move to the folder manually, or use the command above). Trackpad swipe gesture to switch desktop doesn't work (Use Command+Tab to switch out).
+4. Some other glitches, osu! Direct from osu website would not work (in-game download works good). Discord-rpc will not work. Trackpad swipe gesture to switch desktop doesn't work (Use Command+Tab to switch out).
 
 ---------------------------
 ### MacOS Mojave 10.14 Public Beta
-1. The game runs perfectly with Mojave, except for Puclib Beta 3 which doesn't open at all.
-2. Double click or drag beatmap to import works again on Mojave.
+The game runs perfectly with Mojave (even better than High Sierra), except for Puclib Beta 3 which doesn't open at all. Please keep your beta version up to date for the best performance.
