@@ -13,7 +13,7 @@
 3. Open the new client by right click and select open.
    * An error of no runtime can be ignored.
    * If prompted Gecko package is not installed, click cancel.
-   * When osu! installer appear, change the install location before countdown and select drive_c/Program Files/osu!
+   * IMPORTANT!! When osu! installer appear, change the install location before countdown and select drive_c/Program Files/osu!
    * osu! will take a while to download and install itself. The game will start automatically when it finishes.
 4. For the best perfomance, go to setting, set the frame limit to 240fps/Unlimited and turn full screen mode off.
 5. Play a few games. If you're happy with it, move the game to /Application and enjoy!
