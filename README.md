@@ -16,7 +16,7 @@ Migration Process:
 7. Go to top right corner and open the sidebar, the runnning task would indicate the process.
 8. When it's finished, delete the ~/.osu folder from the Terminal.
 
-* `rm -r ~/.osu
+* `rm -r ~/.osu`
 
 9. Move the osu! Lazer client to /Application and replace the old one.
 10. Done and Enjoy!
