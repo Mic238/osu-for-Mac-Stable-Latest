@@ -1,5 +1,27 @@
 # osu! for Mac Stable (Latest)
 
+### Note for MacOS 10.15 Catalina:
+As the new version of MacOS drop support for 32-bit application and unfortunately osu! will not run on MacOS 10.15 Catalina. Please install osu! Lazer on https://github.com/ppy/osu/releases. This package will not be updated anymore.
+
+Migration Process:
+1. Download the osu! Lazer client, DO NOT move to /Application to replace the old client yet.
+2. Open the old osu! folder and go to drive_c - Program Files - osu!.
+3. Open Terminal by right click osu! folder and select New Terminal at window.
+4. Run the following command in the Terminal:
+
+* `mkdir ~/.osu && mv Songs/ Skins/ ~/.osu`
+
+5. Start Lazer client and go to Settings.
+6. Find Import beatmaps from stable and Import skins from stable.
+7. Go to top right corner and open the sidebar, the runnning task would indicate the process.
+8. When it's finished, delete the ~/.osu folder from the Terminal.
+
+* `rm -r ~/.osu
+
+9. Move the osu! Lazer client to /Application and replace the old one.
+10. Done and Enjoy!
+
+---------------------------
 ### Step to Install:
 1. Download zip (196M) from this page, it should be sitting in Download folder.
 
@@ -20,7 +42,7 @@
 
 ---------------------------
 ### Testing Environment:
-Mac Mini (Late 2014) 2.6GHz, 8G Memory, 256G SSD, MacOS Mojave 10.14 Public Beta, Wrapper Wineskin-2.6.2, Engine WS9Wine2.22
+Mac Mini (Late 2014) 2.6GHz, 8G Memory, 256G SSD, MacOS Mojave 10.14.3, Wrapper Wineskin-2.6.2, Engine WS9Wine2.22
 
 ---------------------------
 ### Known Issues
